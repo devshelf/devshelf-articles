@@ -730,6 +730,13 @@
             "tags": [
                 "performance"
             ]
+        },
+        {
+            "url": "http://tohtml.it",
+            "title": "test",
+            "tags": [
+                "sprites"
+            ]
         }
     ]
 }
