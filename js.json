@@ -651,6 +651,15 @@
             "tags": [
                 "ember"
             ]
+        },
+        {
+            "url": "https://developer.chrome.com/devtools/docs/javascript-memory-profiling",
+            "title": "JavaScript Memory Profiling",
+            "author": "google",
+            "tags": [
+                "profiling",
+                "memory profiling"
+            ]
         }
     ]
 }
