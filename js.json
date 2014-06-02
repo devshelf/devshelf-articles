@@ -660,6 +660,15 @@
                 "profiling",
                 "memory profiling"
             ]
+        },
+        {
+            "url": "http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications",
+            "title": "MVC Architecture for JavaScript Applications",
+            "author": "Peter Michaux",
+            "author-link": "http://peter.michaux.ca/",
+            "tags": [
+                "mvc"
+            ]
         }
     ]
 }
