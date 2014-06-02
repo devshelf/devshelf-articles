@@ -632,6 +632,16 @@
             "tags": [
                 "angularjs"
             ]
+        },
+        {
+            "url": "http://flippinawesome.org/2014/05/29/building-your-first-grunt-plugin/",
+            "title": "Building Your First Grunt Plugin",
+            "author": "Mykyta Semenistyi",
+            "author-link": "https://plus.google.com/u/0/+mykytasemenistyi/posts",
+            "tags": [
+                "grunt",
+                "tutorial"
+            ]
         }
     ]
 }
