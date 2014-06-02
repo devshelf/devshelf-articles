@@ -680,6 +680,17 @@
                 "expressjs",
                 "tutorial"
             ]
+        },
+        {
+            "url": "http://www.codeproject.com/Articles/614507/Modular-Javascript-Using-Require-Js",
+            "title": "Modular Javascript Using Require.Js",
+            "author": "Sacha Barber",
+            "author-link": "http://sachabarbs.wordpress.com/",
+            "tags": [
+                "amd",
+                "requirejs",
+                "mvc"
+            ]
         }
     ]
 }
