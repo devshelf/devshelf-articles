@@ -642,6 +642,15 @@
                 "grunt",
                 "tutorial"
             ]
+        },
+        {
+            "url": "http://www.sitepoint.com/fixture-adapters-ember-js-server/",
+            "title": "Fixture Adapters – Ember.js With No Server",
+            "author": "Lamin Sanneh",
+            "author-link": "https://twitter.com/LaminEvra",
+            "tags": [
+                "ember"
+            ]
         }
     ]
 }
