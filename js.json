@@ -691,6 +691,183 @@
                 "requirejs",
                 "mvc"
             ]
+        },
+        {
+            "url": "http://www.clicktorelease.com/code/css3dclouds/",
+            "title": "CSS3D Clouds",
+            "author": "Jaume Sánchez",
+            "author-link": "https://twitter.com/thespite",
+            "description": "Cloudy experiment created with CSS3 and a bit of JavaScript. Have a look (you might be impressed).",
+            "tags": [
+                "wow-effect",
+                "perspective",
+                "3d"
+            ]
+        },
+        {
+            "url": "http://awardwinningfjords.com/2012/03/08/image-sequences.html",
+            "title": "Image Sequences: Let Me Count The Ways",
+            "author": "Thomas Reynolds",
+            "author-link": "http://awardwinningfjords.com/",
+            "description": "A pure CSS (SASS) technique and two JavaScript techniques. One of these methods will surely meet your wants and needs.",
+            "tags": [
+                "animation"
+            ]
+        },
+        {
+            "url": "https://medium.com/objects-in-space/9b8a9dd7bfe3",
+            "title": "Introducing Event-Focused JS and CSS (EFJAC)",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "css"
+            ]
+        },
+        {
+            "url": "http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/",
+            "title": "Understanding the node.js event loop",
+            "author": "mixu",
+            "author-link": "http://github.com/mixu",
+            "tags": [
+                "nodejs",
+                "events"
+            ]
+        },
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/casestudies/hobbit-front-end/",
+            "title": "The Front-end of Middle-earth",
+            "author": "inear",
+            "author-link": "http://github.com/inear",
+            "description": false,
+            "tags": [
+                "wow-effect",
+                "canvas",
+                "animation"
+            ]
+        },
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/speed/script-loading/",
+            "title": "Deep dive into the murky waters of script loading",
+            "author": "jakearchibald",
+            "author-link": "http://github.com/jakearchibald",
+            "description": false,
+            "tags": [
+                "performance"
+            ]
+        },
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/es6/promises/",
+            "title": "JavaScript Promises: There and back again",
+            "author": "Jake Archibald",
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "patterns",
+                "es6"
+            ]
+        },
+        {
+            "url": "http://tech.pro/tutorial/1729/easy-javascript-documentation-with-yuidocs-and-gruntjs",
+            "title": "Easy JavaScript Documentation with YUIDocs and Grunt.js",
+            "author": "jcreamer898",
+            "author-link": "http://github.com/jcreamer898",
+            "description": false,
+            "tags": [
+                "codestyle",
+                "nodejs",
+                "grunt"
+            ]
+        },
+        {
+            "url": "http://24ways.org/2013/grunt-is-not-weird-and-hard/",
+            "title": "Grunt for People Who Think Things Like Grunt are Weird and Hard",
+            "author": "Chris Coyier",
+            "author-link": "http://github.com/chriscoyier",
+            "description": false,
+            "tags": [
+                "grunt",
+                "tutorial"
+            ]
+        },
+        {
+            "url": "http://flippinawesome.org/2013/12/02/building-a-2d-browser-game-with-physicsjs/",
+            "title": "Building a 2D Browser Game with PhysicsJS",
+            "author": "wellcaffeinated",
+            "author-link": "http://github.com/wellcaffeinated",
+            "description": false,
+            "tags": [
+                "physic",
+                "games"
+            ]
+        },
+        {
+            "url": "https://hacks.mozilla.org/2013/10/an-ar-game-technical-overview/",
+            "title": "An AR Game: Technical Overview",
+            "author": "abrie",
+            "author-link": "http://github.com/abrie",
+            "description": false,
+            "tags": [
+                "games"
+            ]
+        },
+        {
+            "url": "http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever",
+            "title": "Gulp, Grunt, Whatever",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "grunt",
+                "gulp",
+                "nodejs"
+            ]
+        },
+        {
+            "url": "http://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air",
+            "title": "No Need To Grunt, Take A Gulp Of Fresh Air",
+            "author": "travm",
+            "author-link": "http://github.com/travm",
+            "description": false,
+            "tags": [
+                "grunt",
+                "gulp",
+                "nodejs"
+            ]
+        },
+        {
+            "url": "http://robo.ghost.io/getting-started-with-gulp-2/",
+            "title": "Simple build env for game dev with Gulp under 5 min",
+            "author": "deepak1556",
+            "author-link": "http://github.com/deepak1556",
+            "description": false,
+            "tags": [
+                "games",
+                "grunt",
+                "gulp",
+                "nodejs"
+            ]
+        },
+        {
+            "url": "https://www.discovermeteor.com/2014/01/02/understanding-meteor-publications-and-subscriptions/",
+            "title": "Understanding Meteor Publications & Subscriptions",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "library",
+                "framework"
+            ]
+        },
+        {
+            "url": "http://jasonweaver.name/lab/offcanvas/",
+            "title": "Off Canvas",
+            "author": "Jason Weaver",
+            "author-link": "http://jasonweaver.name/",
+            "description": "A multi-device web layout pattern explained from conceptual and technical point of view. Very useful technique (that will surely become very popular).",
+            "tags": [
+                "canvas"
+            ]
         }
     ]
 }

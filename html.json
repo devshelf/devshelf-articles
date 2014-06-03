@@ -304,6 +304,16 @@
                 "typography"
             ],
             "description": "A practical guide to web typography"
+        },
+        {
+            "url": "http://bigbitecreative.com/introduction-svg-animation/",
+            "title": "An introduction to SVG animation",
+            "author": "Jon McPartland",
+            "tags": [
+                "svg",
+                "css",
+                "animation"
+            ]
         }
     ]
 }

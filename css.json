@@ -751,6 +751,197 @@
                 "css methodologies",
                 "css best practises"
             ]
+        },
+        {
+            "url": "http://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/",
+            "title": "Quick Overview of CSS Position Values",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net/",
+            "description": "Chris Coyier explains different CSS position values in detail. If you’re (kind of) new to CSS, this is the video you should watch.",
+            "tags": [
+                "rookie",
+                "standarts"
+            ]
+        },
+        {
+            "url": "http://css-tricks.com/content-folding/",
+            "title": "Content Folding",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net/",
+            "description": "Another fine article about CSS3 regions. This might be go-to solution for responsive design (when browser support improves).",
+            "tags": [
+                "flow"
+            ]
+        },
+        {
+            "url": "http://www.impressivewebs.com/css3-attribute-selectors-substring-matching/",
+            "title": "CSS3 Attribute Selectors: Substring Matching",
+            "author": "Louis Lazaris",
+            "author-link": "http://www.impressivewebs.com/about/",
+            "description": "Attribute selectors are slow (not as slow as in JavaScript, but still), but they can be quite useful; master them, you won’t be sorry.",
+            "tags": [
+                "rookie",
+                "standarts"
+            ]
+        },
+        {
+            "url": "http://coding.smashingmagazine.com/2012/03/22/device-agnostic-approach-to-responsive-web-design/",
+            "title": "Device-Agnostic Approach To Responsive Web Design",
+            "author": "Thierry Koblentz",
+            "author-link": "http://coding.smashingmagazine.com/author/thierry-koblentz/",
+            "description": "Breakpoints in responsive design should be based on content, not on device sizes. It’s as simple as that.",
+            "tags": [
+                "responsive"
+            ]
+        },
+        {
+            "url": "http://designshack.net/articles/css/sass-and-media-queries-what-you-can-and-cant-do/",
+            "title": "Sass and Media Queries: What You Can and Can’t Do",
+            "author": "Joshua Johnson",
+            "author-link": "http://designshack.net/author/joshuajohnson/",
+            "description": "SASS doesn’t play nicely with media queries (in all situations). To find out exactly what can cause a problem, read this article.",
+            "tags": [
+                "preprocessors",
+                "less",
+                "mediaqueries"
+            ]
+        },
+        {
+            "url": "http://blog.teamtreehouse.com/getting-started-stylus",
+            "title": "Getting Started with Stylus",
+            "author": "David Walsh",
+            "author-link": "http://blog.teamtreehouse.com/author/davidwalsh",
+            "description": false,
+            "tags": [
+                "preprocessor",
+                "stylus"
+            ]
+        },
+        {
+            "url": "http://www.feedthebot.com/pagespeed/critical-render-path.html",
+            "title": "Critical render path",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "performance"
+            ]
+        },
+        {
+            "url": "http://css-tricks.com/interviewing-front-end-engineer-san-francisco/",
+            "title": "Interviewing as a Front-End Engineer in San Francisco",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "tutorial"
+            ]
+        },
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/casestudies/hobbit/",
+            "title": "The Hobbit Experience",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "js",
+                "tutorial"
+            ]
+        }   {
+            "url": "http://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/",
+            "title": "Quick Overview of CSS Position Values",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net/",
+            "description": "Chris Coyier explains different CSS position values in detail. If you’re (kind of) new to CSS, this is the video you should watch.",
+            "tags": [
+                "rookie",
+                "standarts"
+            ]
+        },
+        {
+            "url": "http://css-tricks.com/content-folding/",
+            "title": "Content Folding",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net/",
+            "description": "Another fine article about CSS3 regions. This might be go-to solution for responsive design (when browser support improves).",
+            "tags": [
+                "flow"
+            ]
+        },
+        {
+            "url": "http://www.impressivewebs.com/css3-attribute-selectors-substring-matching/",
+            "title": "CSS3 Attribute Selectors: Substring Matching",
+            "author": "Louis Lazaris",
+            "author-link": "http://www.impressivewebs.com/about/",
+            "description": "Attribute selectors are slow (not as slow as in JavaScript, but still), but they can be quite useful; master them, you won’t be sorry.",
+            "tags": [
+                "rookie",
+                "standarts"
+            ]
+        },
+        {
+            "url": "http://coding.smashingmagazine.com/2012/03/22/device-agnostic-approach-to-responsive-web-design/",
+            "title": "Device-Agnostic Approach To Responsive Web Design",
+            "author": "Thierry Koblentz",
+            "author-link": "http://coding.smashingmagazine.com/author/thierry-koblentz/",
+            "description": "Breakpoints in responsive design should be based on content, not on device sizes. It’s as simple as that.",
+            "tags": [
+                "responsive"
+            ]
+        },
+        {
+            "url": "http://designshack.net/articles/css/sass-and-media-queries-what-you-can-and-cant-do/",
+            "title": "Sass and Media Queries: What You Can and Can’t Do",
+            "author": "Joshua Johnson",
+            "author-link": "http://designshack.net/author/joshuajohnson/",
+            "description": "SASS doesn’t play nicely with media queries (in all situations). To find out exactly what can cause a problem, read this article.",
+            "tags": [
+                "preprocessors",
+                "less",
+                "mediaqueries"
+            ]
+        },
+        {
+            "url": "http://blog.teamtreehouse.com/getting-started-stylus",
+            "title": "Getting Started with Stylus",
+            "author": "David Walsh",
+            "author-link": "http://blog.teamtreehouse.com/author/davidwalsh",
+            "description": false,
+            "tags": [
+                "preprocessor",
+                "stylus"
+            ]
+        },
+        {
+            "url": "http://www.feedthebot.com/pagespeed/critical-render-path.html",
+            "title": "Critical render path",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "performance"
+            ]
+        },
+        {
+            "url": "http://css-tricks.com/interviewing-front-end-engineer-san-francisco/",
+            "title": "Interviewing as a Front-End Engineer in San Francisco",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "tutorial"
+            ]
+        },
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/casestudies/hobbit/",
+            "title": "The Hobbit Experience",
+            "author": false,
+            "author-link": false,
+            "description": false,
+            "tags": [
+                "js",
+                "tutorial"
+            ]
         }
     ]
 }
