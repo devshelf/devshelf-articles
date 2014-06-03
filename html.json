@@ -294,6 +294,16 @@
                 "PHP ",
                 "css"
             ]
+        },
+        {
+            "url": "http://webtypography.net/",
+            "title": "The Elements of Typographic StyleApplied to the Web",
+            "author": "Richard Rutter",
+            "author-link": "https://github.com/clagnut",
+            "tags": [
+                "typography"
+            ],
+            "description": "A practical guide to web typography"
         }
     ]
 }
