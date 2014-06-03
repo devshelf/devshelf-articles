@@ -298,17 +298,17 @@
                 "tutorial"
             ]
         },
-	    {
-		    "url":"http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
-		    "title":"Meteor.js in Action: Create an App, Test With Laika",
-		    "author":"Michael Herman",
-		    "tags":[
-			    "tutorial",
-			    "meteorjs",
-			    "laika",
-			    "testing"
-		    ]
-	    },
+        {
+            "url": "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
+            "title": "Meteor.js in Action: Create an App, Test With Laika",
+            "author": "Michael Herman",
+            "tags": [
+                "tutorial",
+                "meteorjs",
+                "laika",
+                "testing"
+            ]
+        },
         {
             "url": "http://github.com/polarmobile/coffeescript-style-guide",
             "title": "CoffeeScript Style Guide",
@@ -480,19 +480,25 @@
             "url": "http://bourbon.io/",
             "title": "Bourbon",
             "author": "Thoughtbot",
-            "tags": ["preprocessors"]
+            "tags": [
+                "preprocessors"
+            ]
         },
         {
             "url": "http://clearleft.github.com/clearless/",
             "title": "Clearless",
             "author": "Mark Perkins",
-            "tags": ["snippets"]
+            "tags": [
+                "snippets"
+            ]
         },
         {
             "url": "http://frontender.info/pointer-events-60fps/",
             "title": "60 кадров в секунду с помощью pointer-events: none; при прокрутке",
             "author": "ryanseddon",
-            "tags": ["performance"]
+            "tags": [
+                "performance"
+            ]
         },
         {
             "url": "http://css-tricks.com/cross-browser-css-injection/",
@@ -523,7 +529,10 @@
             "url": "http://frontender.info/fullscreen/",
             "title": "Использование полноэкранного режима на мобильных устройствах",
             "author": "paulkinlan",
-            "tags": ["gestures", "mobile"]
+            "tags": [
+                "gestures",
+                "mobile"
+            ]
         },
         {
             "url": "http://frontender.info/an-introduction-to-dom-events/",
@@ -534,14 +543,14 @@
             ]
         },
         {
-          "url": "http://coding.smashingmagazine.com/2011/06/30/designing-for-android/",
-          "title": "Designing For Android",
-          "author": "Dan McKenzie",
-          "tags": [
-            "eclipse",
-            "design",
-            "mobile"
-          ]
+            "url": "http://coding.smashingmagazine.com/2011/06/30/designing-for-android/",
+            "title": "Designing For Android",
+            "author": "Dan McKenzie",
+            "tags": [
+                "eclipse",
+                "design",
+                "mobile"
+            ]
         },
         {
             "url": "http://www.useragentman.com/blog/2012/09/23/cross-browser-gpu-acceleration-and-requestanimationframe-in-depth/",
@@ -612,6 +621,75 @@
             "tags": [
                 "mvc",
                 "reactjs"
+            ]
+        },
+        {
+            "url": "http://odetocode.com/blogs/scott/archive/2014/05/28/compile-pre-and-post-linking-in-angularjs.aspx",
+            "title": "Compile, Pre, and Post Linking in AngularJS",
+            "author": "K. Scott Allen",
+            "author-mail": "scott@OdeToCode.com",
+            "author-link": "http://odetocode.com/",
+            "tags": [
+                "angularjs"
+            ]
+        },
+        {
+            "url": "http://flippinawesome.org/2014/05/29/building-your-first-grunt-plugin/",
+            "title": "Building Your First Grunt Plugin",
+            "author": "Mykyta Semenistyi",
+            "author-link": "https://plus.google.com/u/0/+mykytasemenistyi/posts",
+            "tags": [
+                "grunt",
+                "tutorial"
+            ]
+        },
+        {
+            "url": "http://www.sitepoint.com/fixture-adapters-ember-js-server/",
+            "title": "Fixture Adapters – Ember.js With No Server",
+            "author": "Lamin Sanneh",
+            "author-link": "https://twitter.com/LaminEvra",
+            "tags": [
+                "ember"
+            ]
+        },
+        {
+            "url": "https://developer.chrome.com/devtools/docs/javascript-memory-profiling",
+            "title": "JavaScript Memory Profiling",
+            "author": "google",
+            "tags": [
+                "profiling",
+                "memory profiling"
+            ]
+        },
+        {
+            "url": "http://peter.michaux.ca/articles/mvc-architecture-for-javascript-applications",
+            "title": "MVC Architecture for JavaScript Applications",
+            "author": "Peter Michaux",
+            "author-link": "http://peter.michaux.ca/",
+            "tags": [
+                "mvc"
+            ]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/build-a-complete-mvc-web-site-with-expressjs--net-34168",
+            "title": "Build a Complete MVC Website With ExpressJS",
+            "author": "Krasimir Tsonev",
+            "author-link": "http://krasimirtsonev.com/",
+            "tags": [
+                "mvc",
+                "expressjs",
+                "tutorial"
+            ]
+        },
+        {
+            "url": "http://www.codeproject.com/Articles/614507/Modular-Javascript-Using-Require-Js",
+            "title": "Modular Javascript Using Require.Js",
+            "author": "Sacha Barber",
+            "author-link": "http://sachabarbs.wordpress.com/",
+            "tags": [
+                "amd",
+                "requirejs",
+                "mvc"
             ]
         }
     ]
