@@ -741,6 +741,16 @@
                 "css methodologies"
             ],
             "description": "I like BEM. But I’m not Yandex, Google or any other huge company that builds all the internet so I found BEM is too strict for me.\r\n\r\nThe point of OPOR (One Page of Rules) is that all rules and recommendations are contained on a single page. It combines best parts of BEM, SMACSS and OOCSS. It’s not a religion and it’s suitable for any small to medium project."
+        },
+        {
+            "url": "http://oocss.org/",
+            "title": "Object-Oriented CSS",
+            "author": "Nicole Sullivan",
+            "author-link": "http://www.stubbornella.org/",
+            "tags": [
+                "css methodologies",
+                "css best practises"
+            ]
         }
     ]
 }
