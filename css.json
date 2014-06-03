@@ -847,7 +847,8 @@
                 "js",
                 "tutorial"
             ]
-        }   {
+        },
+        {
             "url": "http://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/",
             "title": "Quick Overview of CSS Position Values",
             "author": "Chris Coyier",
