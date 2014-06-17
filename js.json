@@ -298,17 +298,17 @@
                 "tutorial"
             ]
         },
-	    {
-		    "url":"http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
-		    "title":"Meteor.js in Action: Create an App, Test With Laika",
-		    "author":"Michael Herman",
-		    "tags":[
-			    "tutorial",
-			    "meteorjs",
-			    "laika",
-			    "testing"
-		    ]
-	    },
+        {
+            "url": "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
+            "title": "Meteor.js in Action: Create an App, Test With Laika",
+            "author": "Michael Herman",
+            "tags": [
+                "tutorial",
+                "meteorjs",
+                "laika",
+                "testing"
+            ]
+        },
         {
             "url": "http://github.com/polarmobile/coffeescript-style-guide",
             "title": "CoffeeScript Style Guide",
@@ -480,19 +480,25 @@
             "url": "http://bourbon.io/",
             "title": "Bourbon",
             "author": "Thoughtbot",
-            "tags": ["preprocessors"]
+            "tags": [
+                "preprocessors"
+            ]
         },
         {
             "url": "http://clearleft.github.com/clearless/",
             "title": "Clearless",
             "author": "Mark Perkins",
-            "tags": ["snippets"]
+            "tags": [
+                "snippets"
+            ]
         },
         {
             "url": "http://frontender.info/pointer-events-60fps/",
             "title": "60 кадров в секунду с помощью pointer-events: none; при прокрутке",
             "author": "ryanseddon",
-            "tags": ["performance"]
+            "tags": [
+                "performance"
+            ]
         },
         {
             "url": "http://css-tricks.com/cross-browser-css-injection/",
@@ -523,7 +529,10 @@
             "url": "http://frontender.info/fullscreen/",
             "title": "Использование полноэкранного режима на мобильных устройствах",
             "author": "paulkinlan",
-            "tags": ["gestures", "mobile"]
+            "tags": [
+                "gestures",
+                "mobile"
+            ]
         },
         {
             "url": "http://frontender.info/an-introduction-to-dom-events/",
@@ -534,14 +543,14 @@
             ]
         },
         {
-          "url": "http://coding.smashingmagazine.com/2011/06/30/designing-for-android/",
-          "title": "Designing For Android",
-          "author": "Dan McKenzie",
-          "tags": [
-            "eclipse",
-            "design",
-            "mobile"
-          ]
+            "url": "http://coding.smashingmagazine.com/2011/06/30/designing-for-android/",
+            "title": "Designing For Android",
+            "author": "Dan McKenzie",
+            "tags": [
+                "eclipse",
+                "design",
+                "mobile"
+            ]
         },
         {
             "url": "http://www.useragentman.com/blog/2012/09/23/cross-browser-gpu-acceleration-and-requestanimationframe-in-depth/",
@@ -613,6 +622,17 @@
                 "mvc",
                 "reactjs"
             ]
+        },
+        {
+            "url": "http://elekslabs.com/2012/11/html5-canvas-performance-and.html",
+            "title": "HTML5 Canvas: Performance and Optimization",
+            "author": "Victor Haydin",
+            "author-link": "https://github.com/VictorHaydin",
+            "tags": [
+                "canvas",
+                "performance"
+            ],
+            "description": "It’s no doubt that HTML5 is going to be the next big platform for software development. Some say it could even kill traditional operating systems and all applications in future will be written with HTML5 and JavaScript. Others say HTML5 apps will have their market share, but never replace native applications completely. One of the main reasons is poor JavaScript performance, they say. But wait, browser vendors say they did lots of optimizations and JavaScript is fast as it was never before! Isn’t it true?"
         }
     ]
 }
