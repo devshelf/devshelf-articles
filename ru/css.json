@@ -73,6 +73,17 @@
                 "css methodologies"
             ],
             "description": "Суть методологии в том, что все правила и рекомендации настолько просты, что умещаются на одной странице. Поэтому она называется OPOR (One Page of Rules). Совмещает лучшие черты БЭМа, SMACSS, OOCSS. Не религиозна. Подходит для небольших проектов."
+        },
+		{
+			"url": "http://habrahabr.ru/post/225721/",
+			"title": "То, что вам никто не говорил о z-index в статье «То, что вам никто не говорил о z-index»",
+			"author": "Sergey Toy",
+			"author-mail": "toydestroyer@me.com",
+			"author-link": "https://github.com/toydestroyer/",
+			"tags": [
+				"z-index",
+				"stacking context"
+            ]
         }
     ]
 }
