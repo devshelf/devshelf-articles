@@ -304,6 +304,16 @@
                 "typography"
             ],
             "description": "A practical guide to web typography"
+        },
+        {
+            "url": "http://webdesign.tutsplus.com/tutorials/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824",
+            "title": "The Truth About Multiple H1 Tags in the HTML5 Era",
+            "author": "Kezz Bracey",
+            "author-link": "https://twitter.com/kezzbracey",
+            "tags": [
+                "semantics"
+            ],
+            "description": "Whether you're a webmaster or a web designer, there's a question you've most likely either asked or answered many times over the years. That question is, \"How many <h1> tags can I use per page, and how exactly should I implement them?\""
         }
     ]
 }
