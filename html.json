@@ -324,6 +324,16 @@
 				"semantics"
 			],
 			"description": "Whether you're a webmaster or a web designer, there's a question you've most likely either asked or answered many times over the years. That question is, \"How many <h1> tags can I use per page, and how exactly should I implement them?\""
-		}
+        },
+        {
+            "url": "https://github.com/audreyr/favicon-cheat-sheet/blob/master/README.rst",
+            "title": "Favicon cheat sheet",
+            "author": "Audrey Roy",
+            "author-mail": "aroy@alum.mit.edu",
+            "tags": [
+                "favicon"
+            ],
+            "description": "A painfully obsessive cheat sheet to favicon sizes/types."
+        }
     ]
 }

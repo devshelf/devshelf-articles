@@ -59,7 +59,7 @@
             "url": "http://moduscreate.com/diving-into-meteorjs/",
             "title": "Diving into MeteorJS",
             "tags": [
-                "meteor",
+                "meteorjs",
                 "nodejs"
             ]
         },
@@ -775,7 +775,6 @@
             "description": false,
             "tags": [
                 "codestyle",
-                "nodejs",
                 "grunt"
             ]
         },
@@ -820,7 +819,7 @@
             "tags": [
                 "grunt",
                 "gulp",
-                "nodejs"
+                "automation"
             ]
         },
         {
@@ -832,7 +831,7 @@
             "tags": [
                 "grunt",
                 "gulp",
-                "nodejs"
+                "automation"
             ]
         },
         {
@@ -844,8 +843,7 @@
             "tags": [
                 "games",
                 "grunt",
-                "gulp",
-                "nodejs"
+                "gulp"
             ]
         },
         {
@@ -889,6 +887,37 @@
 				"wheel"
 			],
 			"description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
-		}
+        },
+        {
+            "url": "https://medium.com/web-code-junk/getting-gulpy-a2010c13d3d5",
+            "title": "Getting gulpy: Advanced tips for using gulp.js",
+            "author": "Lars Kappert",
+            "tags": [
+                "gulpjs",
+                "automation"
+            ],
+            "description": "After getting excited about gulp.js, at some point you need more than the shiny but basic examples. This post discusses some common pitfalls when using gulp.js, plugins and streams in a more advanced and custom way."
+        },
+        {
+            "url": "http://martinwolf.org/2014/06/16/screencast-getting-started-with-gulp-js/",
+            "title": "Screencast: Getting started with gulp.js",
+            "author": "Martin Wolf",
+            "tags": [
+                "gulp",
+                "automation",
+                "rookie"
+            ],
+            "description": "In this video I take a first look at gulp.js and we struggle through the first steps together. Enjoy!"
+        },
+        {
+            "url": "http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/",
+            "title": "10 Best Practices for Better RESTful API",
+            "author": "STEFAN JAUKER",
+            "tags": [
+                "api",
+                "rest"
+            ],
+            "description": "Web APIs has become an very important topic in the last year. We at M-Way Solutions are working every day with different backend systems and therefore we know about the importance of a clean API design."
+        }
     ]
 }
