@@ -304,6 +304,16 @@
                 "typography"
             ],
             "description": "A practical guide to web typography"
+        },
+        {
+            "url": "https://github.com/audreyr/favicon-cheat-sheet/blob/master/README.rst",
+            "title": "Favicon cheat sheet",
+            "author": "Audrey Roy",
+            "author-mail": "aroy@alum.mit.edu",
+            "tags": [
+                "favicon"
+            ],
+            "description": "A painfully obsessive cheat sheet to favicon sizes/types."
         }
     ]
 }
