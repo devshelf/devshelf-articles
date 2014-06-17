@@ -701,6 +701,17 @@
                 "automation"
             ],
             "description": "After getting excited about gulp.js, at some point you need more than the shiny but basic examples. This post discusses some common pitfalls when using gulp.js, plugins and streams in a more advanced and custom way."
+        },
+        {
+            "url": "http://martinwolf.org/2014/06/16/screencast-getting-started-with-gulp-js/",
+            "title": "Screencast: Getting started with gulp.js",
+            "author": "Martin Wolf",
+            "tags": [
+                "gulp",
+                "automation",
+                "rookie"
+            ],
+            "description": "In this video I take a first look at gulp.js and we struggle through the first steps together. Enjoy!"
         }
     ]
 }
