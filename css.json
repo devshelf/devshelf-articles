@@ -914,16 +914,6 @@
             ]
         },
         {
-            "url": "http://www.feedthebot.com/pagespeed/critical-render-path.html",
-            "title": "Critical render path",
-            "author": false,
-            "author-link": false,
-            "description": false,
-            "tags": [
-                "performance"
-            ]
-        },
-        {
             "url": "http://css-tricks.com/interviewing-front-end-engineer-san-francisco/",
             "title": "Interviewing as a Front-End Engineer in San Francisco",
             "author": false,
