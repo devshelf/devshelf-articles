@@ -633,6 +633,16 @@
                 "performance"
             ],
             "description": "It’s no doubt that HTML5 is going to be the next big platform for software development. Some say it could even kill traditional operating systems and all applications in future will be written with HTML5 and JavaScript. Others say HTML5 apps will have their market share, but never replace native applications completely. One of the main reasons is poor JavaScript performance, they say. But wait, browser vendors say they did lots of optimizations and JavaScript is fast as it was never before! Isn’t it true?"
+        },
+        {
+            "url": "http://www.adomas.org/javascript-mouse-wheel/",
+            "title": "Mouse wheel programming in JavaScript",
+            "author": "Adomas Paltanavicius",
+            "author-link": "http://www.adomas.org/",
+            "tags": [
+                "wheel"
+            ],
+            "description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
         }
     ]
 }
