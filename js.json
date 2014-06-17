@@ -691,6 +691,16 @@
                 "requirejs",
                 "mvc"
             ]
+        },
+        {
+            "url": "https://medium.com/web-code-junk/getting-gulpy-a2010c13d3d5",
+            "title": "Getting gulpy: Advanced tips for using gulp.js",
+            "author": "Lars Kappert",
+            "tags": [
+                "gulpjs",
+                "automation"
+            ],
+            "description": "After getting excited about gulp.js, at some point you need more than the shiny but basic examples. This post discusses some common pitfalls when using gulp.js, plugins and streams in a more advanced and custom way."
         }
     ]
 }
