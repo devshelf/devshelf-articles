@@ -67,7 +67,9 @@
             "author": "VitaZheltyakov",
             "author-link": "http://habrahabr.ru/users/VitaZheltyakov/",
             "tags": [
-                "offline", "api", "gamedev"
+                "offline",
+                "api",
+                "gamedev"
             ],
             "description": "В данной статье рассматривается Application Cache API — совокупность функций, обеспечивающих продвинутое кэширование ресурсов web-приложения, и с помощью которых можно просматривать загруженные ранее сайты без подключения к сети Интернет."
         },
@@ -81,35 +83,47 @@
                 "mvc"
             ]
         },
-		{
-			"url": "http://habrahabr.ru/company/sports_ru/blog/130702/",
-			"title": "Кастомизация социальных кнопок",
-			"author": "Владимир Цванг",
-			"author-link": "http://habrahabr.ru/users/vtsvang/",
-			"tags": [
-				"social buttons"
-			],
-			"description": "Многие из нас так или иначе сталкивались с проблемой кастомизации кнопок соцсетей, а многие ещё столкнутся.\r\nВ этом топике мы расскажем, как решили эту проблему в своем спецпроекте, и поделимся готовым и, что немаловажно, достаточно гибким решением."
-		},
-		{
-			"url": "http://habrahabr.ru/post/156185/",
-			"title": "Элементарные социальные share-кнопки",
-			"author": "Дмитрий",
-			"author-link": "http://habrahabr.ru/users/WuWu/",
-			"tags": [
-				"social buttons"
-			],
-			"description": "Реализация простых share-кнопок на js"
-		},
-		{
-			"url": "http://www.html5rocks.com/ru/tutorials/dnd/basics/",
-			"title": "Встроенные функции перетаскивания в HTML5",
-			"author": "Eric Bidelman",
-			"author-link": "https://github.com/ebidel",
-			"tags": [
-				"drag and drop"
-			],
-			"description": "Перетаскивание (drag and drop, DnD) – одна из важнейших функций в HTML5. Эта спецификация определяет событийный механизм, API JavaScript и дополнительную метку, показывающую, что все элементы на странице могут перетаскиваться. Вряд ли кто-то будет возражать против встраивания в браузер дополнительных функций. Реализованная в браузере функция перетаскивания означает более быстрые и управляемые веб-приложения."
-		}
+        {
+            "url": "http://habrahabr.ru/company/sports_ru/blog/130702/",
+            "title": "Кастомизация социальных кнопок",
+            "author": "Владимир Цванг",
+            "author-link": "http://habrahabr.ru/users/vtsvang/",
+            "tags": [
+                "social buttons"
+            ],
+            "description": "Многие из нас так или иначе сталкивались с проблемой кастомизации кнопок соцсетей, а многие ещё столкнутся.\r\nВ этом топике мы расскажем, как решили эту проблему в своем спецпроекте, и поделимся готовым и, что немаловажно, достаточно гибким решением."
+        },
+        {
+            "url": "http://habrahabr.ru/post/156185/",
+            "title": "Элементарные социальные share-кнопки",
+            "author": "Дмитрий",
+            "author-link": "http://habrahabr.ru/users/WuWu/",
+            "tags": [
+                "social buttons"
+            ],
+            "description": "Реализация простых share-кнопок на js"
+        },
+        {
+            "url": "http://www.html5rocks.com/ru/tutorials/dnd/basics/",
+            "title": "Встроенные функции перетаскивания в HTML5",
+            "author": "Eric Bidelman",
+            "author-link": "https://github.com/ebidel",
+            "tags": [
+                "drag and drop"
+            ],
+            "description": "Перетаскивание (drag and drop, DnD) – одна из важнейших функций в HTML5. Эта спецификация определяет событийный механизм, API JavaScript и дополнительную метку, показывающую, что все элементы на странице могут перетаскиваться. Вряд ли кто-то будет возражать против встраивания в браузер дополнительных функций. Реализованная в браузере функция перетаскивания означает более быстрые и управляемые веб-приложения."
+        },
+        {
+            "url": "http://varya.me/ru/posts/html5-mobile-app-width-native-ui/",
+            "title": "Мобильное приложение на HTML5/JavaScript с нативным интерфейсом за несколько минут",
+            "author": "Varya Stepanova",
+            "author-mail": "mail@varya.me",
+            "author-link": "http://varya.me/ru/",
+            "tags": [
+                "js",
+                "mobile"
+            ],
+            "description": "Текстовый вариант доклада с конференции FrontTrends 2014  о фреймворке и инструментах для разработки HTML5/JavaScript мобильных приложений Steroids."
+        }
     ]
 }
