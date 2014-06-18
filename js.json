@@ -932,6 +932,20 @@
                 "basics"
             ],
             "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-intro/",
+            "title": "Essentials of interpretation. Intro.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "js interpreter",
+                "basics"
+            ],
+            "description": "“Essentials of interpretation” is a new series which consists of small lessons on interpretation of computer programs. The lessons are implemented in JavaScript and contain detailed comments. The sources can be found on the appropriate GitHub repository."
         }
     ]
 }
