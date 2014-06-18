@@ -336,6 +336,16 @@
             "description": "A painfully obsessive cheat sheet to favicon sizes/types."
         },
         {
+            "url": "http://www.skilledup.com/learn/programming/free-beginner-html-tutorials/",
+            "title": "The 20 Best Free Beginner HTML Tutorials For Students Of Web Development",
+            "author": "Brad Zomick",
+            "tags": [
+                "css",
+                "javascript",
+                "web development"
+            ]
+        },
+        {
             "url": "http://hop.ie/blog/particles/",
             "title": "Particles in Canvas",
             "author": "Donovan Hutchinson",

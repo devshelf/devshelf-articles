@@ -1002,6 +1002,15 @@
                 "basics"
             ],
             "description": "In this chapter we’ll talk in detail about lexical environments — a mechanism used in some languages to manage the static scoping. In order to understand this concept completely, we’ll also discuss briefly the alternative — dynamic scoping (which though isn’t used directly in ECMAScript). We’ll see how environments help to manage lexically nested structures of a code and to provide complete support of closures."
+        },
+        {
+            "url": "http://www.skilledup.com/learn/programming/online-javascript-courses-to-make-you-a-web-developer/",
+            "title": "Become a Web Developer With These 5 Online Javascript Courses",
+            "author": "Joseph Mapue",
+            "tags": [
+                "rookie",
+                "tutorials"
+            ]
         }
     ]
 }

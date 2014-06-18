@@ -235,6 +235,44 @@
                 "performance"
             ],
             "description": "All about performance"
+        },
+        {
+            "url": "http://www.rookiecode.com/2011/02/back-to-the-basic-what-is-programming/",
+            "title": "Back to the basic: What is programming",
+            "author": "http://www.rookiecode.com",
+            "tags": [
+                "programming",
+                "rookie"
+            ],
+            "description": "Fellow readers, I ask you, what is programming? ..."
+        },
+        {
+            "url": "http://www.rookiecode.com/2011/10/webpage-basic-structure-crash-course/",
+            "title": "Webpage Basic Structure Crash Course",
+            "author": "http://www.rookiecode.com",
+            "tags": [
+                "programming",
+                "rookie"
+            ],
+            "description": "This is a crash course on the code structure of a Webpage. ..."
+        },
+        {
+            "url": "http://www.rookiecode.com/2011/02/compiled-interpreted-or-both/",
+            "title": "Types of Programming Languages : Compiled, Interpreted or both?",
+            "author": "http://www.rookiecode.com",
+            "tags": [
+                "programming",
+                "rookie"
+            ]
+        },
+        {
+            "url": "http://www.rookiecode.com/2011/02/programming-glossary-for-rookies/",
+            "title": "Programming Glossary for rookies",
+            "author": "http://www.rookiecode.com",
+            "tags": [
+                "programming",
+                "rookie"
+            ]
         }
     ]
 }
