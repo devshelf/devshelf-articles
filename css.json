@@ -933,6 +933,17 @@
                 "js",
                 "tutorial"
             ]
+        },
+        {
+            "url": "http://blog.ponyfoo.com/2014/05/17/css-the-good-parts",
+            "title": "CSS_ The Good Parts",
+            "author": "Nicolas Bevacqua",
+            "author-mail": "hello@bevacqua.io",
+            "author-link": "http://bevacqua.io",
+            "tags": [
+                "css style-guide"
+            ],
+            "description": "Thoughts on how the CSS of an application should be modelled"
         }
     ]
 }
