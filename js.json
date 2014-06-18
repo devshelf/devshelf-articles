@@ -867,26 +867,26 @@
                 "canvas"
             ]
         },
-		{
-			"url": "http://elekslabs.com/2012/11/html5-canvas-performance-and.html",
-			"title": "HTML5 Canvas: Performance and Optimization",
-			"author": "Victor Haydin",
-			"author-link": "https://github.com/VictorHaydin",
-			"tags": [
-				"canvas",
-				"performance"
-			],
-			"description": "It’s no doubt that HTML5 is going to be the next big platform for software development. Some say it could even kill traditional operating systems and all applications in future will be written with HTML5 and JavaScript. Others say HTML5 apps will have their market share, but never replace native applications completely. One of the main reasons is poor JavaScript performance, they say. But wait, browser vendors say they did lots of optimizations and JavaScript is fast as it was never before! Isn’t it true?"
-		},
-		{
-			"url": "http://www.adomas.org/javascript-mouse-wheel/",
-			"title": "Mouse wheel programming in JavaScript",
-			"author": "Adomas Paltanavicius",
-			"author-link": "http://www.adomas.org/",
-			"tags": [
-				"wheel"
-			],
-			"description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
+        {
+            "url": "http://elekslabs.com/2012/11/html5-canvas-performance-and.html",
+            "title": "HTML5 Canvas: Performance and Optimization",
+            "author": "Victor Haydin",
+            "author-link": "https://github.com/VictorHaydin",
+            "tags": [
+                "canvas",
+                "performance"
+            ],
+            "description": "It’s no doubt that HTML5 is going to be the next big platform for software development. Some say it could even kill traditional operating systems and all applications in future will be written with HTML5 and JavaScript. Others say HTML5 apps will have their market share, but never replace native applications completely. One of the main reasons is poor JavaScript performance, they say. But wait, browser vendors say they did lots of optimizations and JavaScript is fast as it was never before! Isn’t it true?"
+        },
+        {
+            "url": "http://www.adomas.org/javascript-mouse-wheel/",
+            "title": "Mouse wheel programming in JavaScript",
+            "author": "Adomas Paltanavicius",
+            "author-link": "http://www.adomas.org/",
+            "tags": [
+                "wheel"
+            ],
+            "description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
         },
         {
             "url": "https://medium.com/web-code-junk/getting-gulpy-a2010c13d3d5",
@@ -918,6 +918,20 @@
                 "rest"
             ],
             "description": "Web APIs has become an very important topic in the last year. We at M-Way Solutions are working every day with different backend systems and therefore we know about the importance of a clean API design."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-checkpoint-part-1/",
+            "title": "Essentials of interpretation. Checkpoint: part 1",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "js interpreter",
+                "basics"
+            ],
+            "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
         }
     ]
 }
