@@ -867,26 +867,26 @@
                 "canvas"
             ]
         },
-		{
-			"url": "http://elekslabs.com/2012/11/html5-canvas-performance-and.html",
-			"title": "HTML5 Canvas: Performance and Optimization",
-			"author": "Victor Haydin",
-			"author-link": "https://github.com/VictorHaydin",
-			"tags": [
-				"canvas",
-				"performance"
-			],
-			"description": "It’s no doubt that HTML5 is going to be the next big platform for software development. Some say it could even kill traditional operating systems and all applications in future will be written with HTML5 and JavaScript. Others say HTML5 apps will have their market share, but never replace native applications completely. One of the main reasons is poor JavaScript performance, they say. But wait, browser vendors say they did lots of optimizations and JavaScript is fast as it was never before! Isn’t it true?"
-		},
-		{
-			"url": "http://www.adomas.org/javascript-mouse-wheel/",
-			"title": "Mouse wheel programming in JavaScript",
-			"author": "Adomas Paltanavicius",
-			"author-link": "http://www.adomas.org/",
-			"tags": [
-				"wheel"
-			],
-			"description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
+        {
+            "url": "http://elekslabs.com/2012/11/html5-canvas-performance-and.html",
+            "title": "HTML5 Canvas: Performance and Optimization",
+            "author": "Victor Haydin",
+            "author-link": "https://github.com/VictorHaydin",
+            "tags": [
+                "canvas",
+                "performance"
+            ],
+            "description": "It’s no doubt that HTML5 is going to be the next big platform for software development. Some say it could even kill traditional operating systems and all applications in future will be written with HTML5 and JavaScript. Others say HTML5 apps will have their market share, but never replace native applications completely. One of the main reasons is poor JavaScript performance, they say. But wait, browser vendors say they did lots of optimizations and JavaScript is fast as it was never before! Isn’t it true?"
+        },
+        {
+            "url": "http://www.adomas.org/javascript-mouse-wheel/",
+            "title": "Mouse wheel programming in JavaScript",
+            "author": "Adomas Paltanavicius",
+            "author-link": "http://www.adomas.org/",
+            "tags": [
+                "wheel"
+            ],
+            "description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
         },
         {
             "url": "https://medium.com/web-code-junk/getting-gulpy-a2010c13d3d5",
@@ -918,6 +918,90 @@
                 "rest"
             ],
             "description": "Web APIs has become an very important topic in the last year. We at M-Way Solutions are working every day with different backend systems and therefore we know about the importance of a clean API design."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-checkpoint-part-1/",
+            "title": "Essentials of interpretation. Checkpoint: part 1",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "js interpreter",
+                "basics"
+            ],
+            "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-intro/",
+            "title": "Essentials of interpretation. Intro.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "js interpreter",
+                "basics"
+            ],
+            "description": "“Essentials of interpretation” is a new series which consists of small lessons on interpretation of computer programs. The lessons are implemented in JavaScript and contain detailed comments. The sources can be found on the appropriate GitHub repository."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-2-lexical-environments-ecmascript-implementation/",
+            "title": "ECMA-262-5 in detail. Chapter 3.2. Lexical environments: ECMAScript implementation.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "lexical environments",
+                "basics"
+            ],
+            "description": "In this chapter we continue our consideration of lexical environments. In the previous sub chapter 3.1 we clarified the general theory related with the topic. In particular we have learned that the concept of environments is closely related with concepts of static scope and closures.\r\n\r\nWe have also said that ECMAScript uses the model of chained environment frames. And in this part we’ll tackle with lexical environments implementation in exactly ECMAScript. In particular we’ll discuss structures and terminology used in ES to reflect this common theory.\r\n\r\nWe start from definitions. Though we already gave the definition of a lexical environment in the common theory, here we give it already relatively to the ECMA-262-5 standard.\r\n"
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/javascript-array-extras-in-detail/",
+            "title": "JavaScript. Array “extras” in detail.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "Array",
+                "basics"
+            ],
+            "description": "In this article we’ll look at the functionality made available by the new methods of array objects standardized in ECMA-262 5th edition (aka ES5). Most of the methods discussed below are higher-order (we’ll clarify this term shortly below), and related to functional programming. In addition, most of them have been added to different JavaScript implementations since version 1.6 (SpiderMonkey), although these were only standardized in ES5.\r\n"
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/notes/note-4-two-words-about-hoisting/",
+            "title": "Note 4. Two words about “hoisting”.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "hoisting",
+                "basics"
+            ],
+            "description": "My recent playground was the toy Scheme interpreter written in CoffeeScript. In the chapter of the metacircular evaluator of the SICP book, there is a section — 4.1.6 Internal Definitions suggesting to solve one interesting and subtle issue related with the (inner) definitions of functions."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-1-lexical-environments-common-theory/",
+            "title": "ECMA-262-5 in detail. Chapter 3.1. Lexical environments: Common Theory.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "lexical environment",
+                "basics"
+            ],
+            "description": "In this chapter we’ll talk in detail about lexical environments — a mechanism used in some languages to manage the static scoping. In order to understand this concept completely, we’ll also discuss briefly the alternative — dynamic scoping (which though isn’t used directly in ECMAScript). We’ll see how environments help to manage lexically nested structures of a code and to provide complete support of closures."
         }
     ]
 }
