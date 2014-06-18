@@ -960,6 +960,20 @@
                 "basics"
             ],
             "description": "In this chapter we continue our consideration of lexical environments. In the previous sub chapter 3.1 we clarified the general theory related with the topic. In particular we have learned that the concept of environments is closely related with concepts of static scope and closures.\r\n\r\nWe have also said that ECMAScript uses the model of chained environment frames. And in this part we’ll tackle with lexical environments implementation in exactly ECMAScript. In particular we’ll discuss structures and terminology used in ES to reflect this common theory.\r\n\r\nWe start from definitions. Though we already gave the definition of a lexical environment in the common theory, here we give it already relatively to the ECMA-262-5 standard.\r\n"
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/javascript-array-extras-in-detail/",
+            "title": "JavaScript. Array “extras” in detail.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "Array",
+                "basics"
+            ],
+            "description": "In this article we’ll look at the functionality made available by the new methods of array objects standardized in ECMA-262 5th edition (aka ES5). Most of the methods discussed below are higher-order (we’ll clarify this term shortly below), and related to functional programming. In addition, most of them have been added to different JavaScript implementations since version 1.6 (SpiderMonkey), although these were only standardized in ES5.\r\n"
         }
     ]
 }
