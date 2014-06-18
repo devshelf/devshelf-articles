@@ -988,6 +988,20 @@
                 "basics"
             ],
             "description": "My recent playground was the toy Scheme interpreter written in CoffeeScript. In the chapter of the metacircular evaluator of the SICP book, there is a section — 4.1.6 Internal Definitions suggesting to solve one interesting and subtle issue related with the (inner) definitions of functions."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-1-lexical-environments-common-theory/",
+            "title": "ECMA-262-5 in detail. Chapter 3.1. Lexical environments: Common Theory.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "lexical environment",
+                "basics"
+            ],
+            "description": "In this chapter we’ll talk in detail about lexical environments — a mechanism used in some languages to manage the static scoping. In order to understand this concept completely, we’ll also discuss briefly the alternative — dynamic scoping (which though isn’t used directly in ECMAScript). We’ll see how environments help to manage lexically nested structures of a code and to provide complete support of closures."
         }
     ]
 }
