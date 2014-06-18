@@ -974,6 +974,20 @@
                 "basics"
             ],
             "description": "In this article we’ll look at the functionality made available by the new methods of array objects standardized in ECMA-262 5th edition (aka ES5). Most of the methods discussed below are higher-order (we’ll clarify this term shortly below), and related to functional programming. In addition, most of them have been added to different JavaScript implementations since version 1.6 (SpiderMonkey), although these were only standardized in ES5.\r\n"
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/notes/note-4-two-words-about-hoisting/",
+            "title": "Note 4. Two words about “hoisting”.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "hoisting",
+                "basics"
+            ],
+            "description": "My recent playground was the toy Scheme interpreter written in CoffeeScript. In the chapter of the metacircular evaluator of the SICP book, there is a section — 4.1.6 Internal Definitions suggesting to solve one interesting and subtle issue related with the (inner) definitions of functions."
         }
     ]
 }
