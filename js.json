@@ -946,6 +946,20 @@
                 "basics"
             ],
             "description": "“Essentials of interpretation” is a new series which consists of small lessons on interpretation of computer programs. The lessons are implemented in JavaScript and contain detailed comments. The sources can be found on the appropriate GitHub repository."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-2-lexical-environments-ecmascript-implementation/",
+            "title": "ECMA-262-5 in detail. Chapter 3.2. Lexical environments: ECMAScript implementation.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ECMA",
+                "lexical environments",
+                "basics"
+            ],
+            "description": "In this chapter we continue our consideration of lexical environments. In the previous sub chapter 3.1 we clarified the general theory related with the topic. In particular we have learned that the concept of environments is closely related with concepts of static scope and closures.\r\n\r\nWe have also said that ECMAScript uses the model of chained environment frames. And in this part we’ll tackle with lexical environments implementation in exactly ECMAScript. In particular we’ll discuss structures and terminology used in ES to reflect this common theory.\r\n\r\nWe start from definitions. Though we already gave the definition of a lexical environment in the common theory, here we give it already relatively to the ECMA-262-5 standard.\r\n"
         }
     ]
 }
