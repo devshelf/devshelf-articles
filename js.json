@@ -1002,6 +1002,18 @@
                 "basics"
             ],
             "description": "In this chapter we’ll talk in detail about lexical environments — a mechanism used in some languages to manage the static scoping. In order to understand this concept completely, we’ll also discuss briefly the alternative — dynamic scoping (which though isn’t used directly in ECMAScript). We’ll see how environments help to manage lexically nested structures of a code and to provide complete support of closures."
+        },
+        {
+            "url": "http://ejohn.org/blog/simple-javascript-inheritance/",
+            "title": "Simple JavaScript Inheritance",
+            "author": "John Resig",
+            "author-mail": "jeresig@gmail.com",
+            "author-link": "http://ejohn.org",
+            "tags": [
+                "Inheritance",
+                "basics"
+            ],
+            "description": "I’ve been doing a lot of work, lately, with JavaScript inheritance – namely for my work-in-progress JavaScript book – and in doing so have examined a number of different JavaScript classical-inheritance-simulating techniques. Out of all the ones that I’ve looked at I think my favorites were the implementations employed by base2 and Prototype."
         }
     ]
 }
