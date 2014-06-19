@@ -1011,6 +1011,45 @@
                 "rookie",
                 "tutorials"
             ]
+        },
+        {
+            "url": "http://ejohn.org/blog/simple-javascript-inheritance/",
+            "title": "Simple JavaScript Inheritance",
+            "author": "John Resig",
+            "author-mail": "jeresig@gmail.com",
+            "author-link": "http://ejohn.org",
+            "tags": [
+                "Inheritance",
+                "basics"
+            ],
+            "description": "I’ve been doing a lot of work, lately, with JavaScript inheritance – namely for my work-in-progress JavaScript book – and in doing so have examined a number of different JavaScript classical-inheritance-simulating techniques. Out of all the ones that I’ve looked at I think my favorites were the implementations employed by base2 and Prototype."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/javascript-the-core/",
+            "title": "JavaScript. The core.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ecma",
+                "basics"
+            ],
+            "description": "This note is an overview and summary of the “ECMA-262-3 in detail” series. Every section contains references to the appropriate matching chapters so you can read them to get a deeper understanding.\r\n\r\nIntended audience: experienced programmers, professionals.\r\n\r\nWe start out by considering the concept of an object, which is fundamental to ECMAScript."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/chapter-6-closures/",
+            "title": "ECMA-262-3 in detail. Chapter 6. Closures.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecma",
+                "ecmascript",
+                "closures",
+                "basics"
+            ],
+            "description": "In this article we will talk about one of the most discussed topics related with JavaScript — about closures. The topic, as a matter of fact, is not new and was discussed many times. However we will try to discuss and understand it more from theoretical point of view, and also will look at how closures are made in ECMAScript from within."
         }
     ]
 }
