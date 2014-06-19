@@ -124,6 +124,17 @@
                 "mobile"
             ],
             "description": "Текстовый вариант доклада с конференции FrontTrends 2014  о фреймворке и инструментах для разработки HTML5/JavaScript мобильных приложений Steroids."
+        },
+        {
+            "url": "http://habrahabr.ru/post/213515/",
+            "title": "Готовим IndexedDB",
+            "author": "Evgeny Uspenskiy",
+            "author-mail": "burashka-lcme@yandex.ru",
+            "author-link": "http://habrahabr.ru/users/buranlcme/",
+            "tags": [
+                "js"
+            ],
+            "description": "IndexedDB — это объектная база данных, которая намного мощнее, эффективнее и надежней, чем веб-хранилище пар ключ/значение, доступное посредством прикладного интерфейса Web Storage."
         }
     ]
 }
