@@ -944,6 +944,17 @@
                 "css style-guide"
             ],
             "description": "Thoughts on how the CSS of an application should be modelled"
+        },
+        {
+            "url": "http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29",
+            "title": "Ideas for Subtle Hover Effects",
+            "author": "Mary Lou",
+            "author-link": "http://tympanus.net/codrops/author/crnacura/",
+            "tags": [
+                "css",
+                "hover",
+                "html"
+            ]
         }
     ]
 }
