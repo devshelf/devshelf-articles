@@ -1050,6 +1050,19 @@
                 "basics"
             ],
             "description": "In this article we will talk about one of the most discussed topics related with JavaScript — about closures. The topic, as a matter of fact, is not new and was discussed many times. However we will try to discuss and understand it more from theoretical point of view, and also will look at how closures are made in ECMAScript from within."
+        },
+        {
+            "url": "http://yeoman.io/blog/performance-optimization.html",
+            "title": "Grunt and Gulp tasks for performance optimization",
+            "author": "Addy Osmani",
+            "author-link": "http://addyosmani.com/blog/",
+            "tags": [
+                "js",
+                "grunt",
+                "gulp",
+                "performance"
+            ],
+            "description": "Delays in performance have the potential to impact user engagement, experience and revenue. Thankfully, Google's 'Make The Web Faster' team recommend a set of best-practice rules for keeping your pages lean, fast and smooth. These include minifying resources like CSS and JavaScript, optimizing images, inlining and removing unused styles and so on."
         }
     ]
 }
