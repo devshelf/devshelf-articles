@@ -751,6 +751,13 @@
                 "css methodologies",
                 "css best practises"
             ]
+        },
+        {
+            "url": "http://habr.ru",
+            "title": "test",
+            "tags": [
+                "css style-guide"
+            ]
         }
     ]
 }
