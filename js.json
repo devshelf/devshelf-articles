@@ -1041,6 +1041,20 @@
                 "basics"
             ],
             "description": "In this article we will talk about one of the most discussed topics related with JavaScript — about closures. The topic, as a matter of fact, is not new and was discussed many times. However we will try to discuss and understand it more from theoretical point of view, and also will look at how closures are made in ECMAScript from within."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/es5-chapter-1-properties-and-property-descriptors/",
+            "title": "ECMA-262-5 in detail. Chapter 1. Properties and Property Descriptors.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ecma",
+                "basics",
+                "properties"
+            ],
+            "description": "This chapter is devoted generally to one of new concepts of the ECMA-262-5 specification — to property attributes and mechanism of their handling — property descriptors.\r\n\r\nUsually saying that “an object has some property” we mean an association between a property name and its value. But as we know from the ES3 analysis, a property structure is more complex than just a string name. It also has set of attributes — those which we already discussed in ES3, e.g. {ReadOnly}, {DontEnum} and other. So from this viewpoint a property is as an object itself.\r\n\r\nFor full understanding of this chapter I recommend reading the Chaper 7.2. OOP: ECMAScript implementation of the ECMA-262-3 series."
         }
     ]
 }
