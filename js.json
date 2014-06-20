@@ -1055,6 +1055,20 @@
                 "properties"
             ],
             "description": "This chapter is devoted generally to one of new concepts of the ECMA-262-5 specification — to property attributes and mechanism of their handling — property descriptors.\r\n\r\nUsually saying that “an object has some property” we mean an association between a property name and its value. But as we know from the ES3 analysis, a property structure is more complex than just a string name. It also has set of attributes — those which we already discussed in ES3, e.g. {ReadOnly}, {DontEnum} and other. So from this viewpoint a property is as an object itself.\r\n\r\nFor full understanding of this chapter I recommend reading the Chaper 7.2. OOP: ECMAScript implementation of the ECMA-262-3 series."
+        },
+        {
+            "url": "http://dmitrysoshnikov.com/ecmascript/chapter-4-scope-chain/",
+            "title": "ECMA-262-3 in detail. Chapter 4. Scope chain.",
+            "author": "Dmitry Soshnikov",
+            "author-mail": "dmitry.soshnikov@gmail.com",
+            "author-link": "http://dmitrysoshnikov.com/",
+            "tags": [
+                "ecmascript",
+                "ecma",
+                "scope",
+                "basics"
+            ],
+            "description": "As we already know from the second chapter concerning the variable object, the data of an execution context (variables, function declarations, and formal parameters of functions) are stored as properties of the variables object.\r\n\r\nAlso, we know that the variable object is created and filled with initial values every time on entering the context, and that its updating occurs at code execution phase.\r\n\r\nThis chapter is devoted one more detail directly related with execution contexts; this time, we will mention a topic of a scope chain"
         }
     ]
 }
