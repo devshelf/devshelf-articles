@@ -3,7 +3,7 @@
         {
             "url": "http://frontender.info/generator-yeoman/",
             "title": "Пишем свой генератор для Yeoman",
-            "author": "package.json",
+            "author": "Денис Демченко",
             "author-link": "https://twitter.com/lancedikson",
             "tags": [
                 "yeoman"
