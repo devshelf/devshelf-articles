@@ -19,6 +19,19 @@
                 "Go"
             ],
             "description": "Работа с изображениями в языке Go"
+        },
+        {
+            "url": "http://frontender.info/skaffolding-dlya-frontenderov/",
+            "title": "Быстрая инициализация проекта",
+            "author": "Денис Демченко",
+            "author-mail": "lance@dikson.me",
+            "author-link": "https://twitter.com/lancedikson",
+            "tags": [
+                "scaffolding",
+                "yeoman",
+                "js"
+            ],
+            "description": "Пожалуй, каждый разработчик, проекты которого имеют короткий жизненный цикл, задумывается о возможности и способах быстрой инициализации новых проектов. Давайте познакомимся с терминологией и инструментами инициализации проектов."
         }
     ]
 }
