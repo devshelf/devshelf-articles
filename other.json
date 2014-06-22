@@ -277,9 +277,12 @@
         {
             "url": "http://www.sitepoint.com/whats-new-git-2-0/",
             "title": "What’s New in Git 2.0?",
+            "author": "Shaumik Daityari",
+            "author-link": "https://github.com/sdaityari/",
             "tags": [
                 "git"
-            ]
+            ],
+            "description": "At the end of May, Git’s primary developer, Junio C Hamano, announced on their mailing list the much awaited release of Git 2.0. If you go through the release notes, you will find that there are quite a few changes that have been welcomed by the community. In this article, I’ll provide an overview of these changes. We will see two big changes that are creating waves, followed by a few miscellaneous ones."
         }
     ]
 }
