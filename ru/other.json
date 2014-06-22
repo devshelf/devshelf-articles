@@ -16,7 +16,8 @@
             "author": "tvorzasp",
             "author-link": "https://twitter.com/TvorZasp",
             "tags": [
-                "Go"
+                "Go",
+                "images"
             ],
             "description": "Работа с изображениями в языке Go"
         },

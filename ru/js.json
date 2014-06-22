@@ -132,7 +132,8 @@
             "author-mail": "burashka-lcme@yandex.ru",
             "author-link": "http://habrahabr.ru/users/buranlcme/",
             "tags": [
-                "js"
+                "js",
+                "indexed db"
             ],
             "description": "IndexedDB — это объектная база данных, которая намного мощнее, эффективнее и надежней, чем веб-хранилище пар ключ/значение, доступное посредством прикладного интерфейса Web Storage."
         },
