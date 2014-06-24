@@ -1107,6 +1107,17 @@
                 "debug",
                 "grunt"
             ]
+        },
+        {
+            "url": "http://youmightnotneedjquery.com/",
+            "title": "You might not need jQuery",
+            "author": false,
+            "tags": [
+                "jquery",
+                "js",
+                "css"
+            ],
+            "description": "Alternatives to jQuery",
         }
     ]
 }
