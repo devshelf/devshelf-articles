@@ -964,6 +964,30 @@
                 "rookie"
             ],
             "description": "The Internet took off quicker than anyone would have predicted, growing like crazy. Now, for the past few years, mobile growth has exploded onto the scene. The growth of mobile Internet usage is also far out pacing that of general Internet usage growth."
+        },
+        {
+            "url": "http://ref.openweb.io/CSS/",
+            "title": "CSS Reference",
+            "author": "David Storey",
+            "author-link": "http://generatedcontent.org/",
+            "tags": [
+                "css properties",
+                "documentation"
+            ],
+            "description": "Alphabetical list of CSS Properties"
+        },
+        {
+            "url": "http://css3.bradshawenterprises.com/",
+            "title": "CSS Transitions, Transforms, Animation, Filters adn more",
+            "author": "Rich Bradshaw",
+            "tags": [
+                "css3",
+                "transition",
+                "transform",
+                "animation",
+                "filter"
+            ],
+            "description": "This website is designed to help you build modern sites that are able to make use of some of the newer, exciting parts of CSS."
         }
     ]
 }
