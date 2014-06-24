@@ -357,6 +357,21 @@
                 "canvas"
             ],
             "description": "Using HTML5 Canvas to create particle effects"
+        },
+        {
+            "url": "http://www.adamkaplan.me/grid/",
+            "title": "GRID",
+            "author": "Adam Kaplan",
+            "author-link": "http://www.adamkaplan.me/",
+            "tags": [
+                "guide to responsive design",
+                "fast learning",
+                "responsive",
+                "tutorial",
+                "media-queries",
+                "mobile"
+            ],
+            "description": "A simple guide to responsive design."
         }
     ]
 }
