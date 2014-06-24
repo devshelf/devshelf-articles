@@ -148,6 +148,18 @@
                 "Meteor"
             ],
             "description": "Meteor - это платформа для создания так называемых real-time web apps - современных веб-приложений, где браузер и сервер общаются друг с другом в реальном времени без перезагрузки страницы. По сути Meteor - это слой между интерфейсом вашего приложения и его базой данных, который следит за их синхронизацией."
+        },
+        {
+            "url": "http://nano.sapegin.ru/all/bower",
+            "title": "Bower: зачем фронтенду нужен менеджер пакетов",
+            "author": "Artem Sapegin",
+            "author-mail": "artem@sapegin.ru",
+            "author-link": "http://sapegin.ru",
+            "tags": [
+                "js",
+                "bower",
+                "tools"
+            ]
         }
     ]
 }
