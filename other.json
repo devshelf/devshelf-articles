@@ -294,6 +294,18 @@
                 "version control"
             ],
             "description": "Comprehensive git Turoial"
+        },
+        {
+            "url": "http://blog.sapegin.me/all/deploy",
+            "title": "Simple site deploy from Git",
+            "author": "Artem Sapegin",
+            "author-mail": "artem@sapegin.ru",
+            "author-link": "http://sapegin.me/",
+            "tags": [
+                "deploy",
+                "tools",
+                "git"
+            ]
         }
     ]
 }
