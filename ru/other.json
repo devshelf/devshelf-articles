@@ -45,6 +45,17 @@
                 "tools",
                 "git"
             ]
+        },
+        {
+            "url": "http://nano.sapegin.ru/all/grunt-0-4",
+            "title": "Grunt 0.4: система сборки для фронтенд-разработчиков",
+            "author": "Artem Sapegin",
+            "author-mail": "artem@sapegin.ru",
+            "author-link": "http://sapegin.ru",
+            "tags": [
+                "grunt",
+                "tools"
+            ]
         }
     ]
 }
