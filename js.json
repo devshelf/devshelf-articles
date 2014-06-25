@@ -1114,8 +1114,7 @@
             "author": false,
             "tags": [
                 "jquery",
-                "js",
-                "css"
+                "js"
             ],
             "description": "Alternatives to jQuery",
         }
