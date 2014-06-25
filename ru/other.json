@@ -56,6 +56,18 @@
                 "grunt",
                 "tools"
             ]
+        },
+        {
+            "url": "http://ilovepsd.ru/",
+            "title": "Правила хорошего тона в «Фотошопе»",
+            "author": "Николай Бернинг",
+            "author-mail": "b@nplusb.ru",
+            "author-link": "http://nplusb.ru/",
+            "tags": [
+                "photoshop",
+                "psd"
+            ],
+            "description": "Следование этим простым правилам исключает многие проблемы, возникающие при работе с девелоперами и дизайнерами"
         }
     ]
 }

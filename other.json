@@ -306,6 +306,16 @@
                 "tools",
                 "git"
             ]
+        },
+        {
+            "url": "http://photoshopetiquette.com/",
+            "title": "Photoshop Etiquette",
+            "author": "Dan Rose",
+            "tags": [
+                "photoshop",
+                "psd"
+            ],
+            "description": "A Guide to Discernible Web Design in Photoshop"
         }
     ]
 }
