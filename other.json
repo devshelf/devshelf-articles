@@ -308,6 +308,18 @@
             ]
         },
         {
+            "url": "http://www.google.com/design/spec/material-design/introduction.html",
+            "title": "Material Design",
+            "tags": [
+                "guidelines",
+                "animation",
+                "patterns",
+                "resources",
+                "design"
+            ],
+            "description": "Google Guidelines"
+        },
+        {
             "url": "http://photoshopetiquette.com/",
             "title": "Photoshop Etiquette",
             "author": "Dan Rose",
