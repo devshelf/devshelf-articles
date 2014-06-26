@@ -306,6 +306,18 @@
                 "tools",
                 "git"
             ]
+        },
+        {
+            "url": "http://www.google.com/design/spec/material-design/introduction.html",
+            "title": "Material Design",
+            "tags": [
+                "guidelines",
+                "animation",
+                "patterns",
+                "resources",
+                "design"
+            ],
+            "description": "Google Guidelines"
         }
     ]
 }
