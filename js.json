@@ -1147,6 +1147,16 @@
                 "marionette.js",
                 "backbone.js"
             ]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2013/04/02/thorough-introduction-backbone-marionette-part-2-modules/",
+            "title": "A Thorough Introduction To Backbone.Marionette (Part 2)",
+            "author": "Joseph Zimmerman",
+            "author-link": "http://www.joezimjs.com/",
+            "tags": [
+                "marionette.js",
+                "backbone.js"
+            ]
         }
     ]
 }
