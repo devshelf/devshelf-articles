@@ -298,17 +298,17 @@
                 "tutorial"
             ]
         },
-	    {
-		    "url":"http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
-		    "title":"Meteor.js in Action: Create an App, Test With Laika",
-		    "author":"Michael Herman",
-		    "tags":[
-			    "tutorial",
-			    "meteorjs",
-			    "laika",
-			    "testing"
-		    ]
-	    },
+        {
+            "url": "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
+            "title": "Meteor.js in Action: Create an App, Test With Laika",
+            "author": "Michael Herman",
+            "tags": [
+                "tutorial",
+                "meteorjs",
+                "laika",
+                "testing"
+            ]
+        },
         {
             "url": "http://github.com/polarmobile/coffeescript-style-guide",
             "title": "CoffeeScript Style Guide",
@@ -1137,6 +1137,36 @@
                 "web app"
             ],
             "description": "Web apps have been around for a while, but the ability to install them as if they were native apps is relatively new. This blog post takes a look at what’s currently possible."
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2013/02/11/introduction-backbone-marionette/",
+            "title": "A Thorough Introduction To Backbone.Marionette (Part 1)",
+            "author": "Joseph Zimmerman",
+            "author-link": "http://www.joezimjs.com/",
+            "tags": [
+                "marionette.js",
+                "backbone.js"
+            ]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2013/04/02/thorough-introduction-backbone-marionette-part-2-modules/",
+            "title": "A Thorough Introduction To Backbone.Marionette (Part 2)",
+            "author": "Joseph Zimmerman",
+            "author-link": "http://www.joezimjs.com/",
+            "tags": [
+                "marionette.js",
+                "backbone.js"
+            ]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2014/06/05/thorough-introduction-backbone-marionette-part-3/",
+            "title": "A Thorough Introduction To Backbone.Marionette (Part 3)",
+            "author": "Joseph Zimmerman",
+            "author-link": "http://www.joezimjs.com/",
+            "tags": [
+                "marionette.js",
+                "backbone.js"
+            ]
         }
     ]
 }
