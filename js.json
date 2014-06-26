@@ -298,17 +298,17 @@
                 "tutorial"
             ]
         },
-        {
-            "url": "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
-            "title": "Meteor.js in Action: Create an App, Test With Laika",
-            "author": "Michael Herman",
-            "tags": [
-                "tutorial",
-                "meteorjs",
-                "laika",
-                "testing"
-            ]
-        },
+	    {
+		    "url":"http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/",
+		    "title":"Meteor.js in Action: Create an App, Test With Laika",
+		    "author":"Michael Herman",
+		    "tags":[
+			    "tutorial",
+			    "meteorjs",
+			    "laika",
+			    "testing"
+		    ]
+	    },
         {
             "url": "http://github.com/polarmobile/coffeescript-style-guide",
             "title": "CoffeeScript Style Guide",
@@ -1127,6 +1127,16 @@
                 "gestures",
                 "UI"
             ]
+        },
+        {
+            "url": "http://www.2ality.com/2014/06/installable-web-apps.html?utm_content=bufferf07e5",
+            "title": "Installing web apps natively",
+            "author": "Dr. Axel Rauschmayer",
+            "author-link": "http://rauschma.de/",
+            "tags": [
+                "web app"
+            ],
+            "description": "Web apps have been around for a while, but the ability to install them as if they were native apps is relatively new. This blog post takes a look at what’s currently possible."
         }
     ]
 }
