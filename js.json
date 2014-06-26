@@ -643,6 +643,16 @@
                 "wheel"
             ],
             "description": "This page is to provide you with general information about handling mouse wheel-generated events in JavaScript programming language."
+        },
+        {
+            "url": "http://www.2ality.com/2014/06/installable-web-apps.html?utm_content=bufferf07e5",
+            "title": "Installing web apps natively",
+            "author": "Dr. Axel Rauschmayer",
+            "author-link": "http://rauschma.de/",
+            "tags": [
+                "web app"
+            ],
+            "description": "Web apps have been around for a while, but the ability to install them as if they were native apps is relatively new. This blog post takes a look at what’s currently possible."
         }
     ]
 }
