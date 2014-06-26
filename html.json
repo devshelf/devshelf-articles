@@ -372,6 +372,18 @@
                 "mobile"
             ],
             "description": "A simple guide to responsive design."
+        },
+        {
+            "url": "http://blog.templatemonster.com/2014/06/23/responsive-sliding-drawer-menu-lightbox-effect/",
+            "title": "Responsive Sliding Drawer Menu with Lightbox Effect",
+            "author": " Jake Rocheleau",
+            "tags": [
+                "css",
+                "css3",
+                "js",
+                "tutorial",
+                "html5"
+            ]
         }
     ]
 }
