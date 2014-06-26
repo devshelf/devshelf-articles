@@ -1116,7 +1116,17 @@
                 "jquery",
                 "js"
             ],
-            "description": "Alternatives to jQuery",
+            "description": "Alternatives to jQuery"
+        },
+        {
+            "url": "https://developers.google.com/web/fundamentals/input/touch/touchevents/",
+            "title": "Web Fundamentals / Forms and User Input / Add Touch to Your Site / ADD TOUCH TO YOUR SITE Implement Custom Gestures",
+            "author": "Google Developers",
+            "tags": [
+                "js",
+                "gestures",
+                "UI"
+            ]
         }
     ]
 }
