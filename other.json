@@ -328,6 +328,18 @@
                 "psd"
             ],
             "description": "A Guide to Discernible Web Design in Photoshop"
+        },
+        {
+            "url": "http://www.impallari.com/testing/",
+            "title": "Font Testing Page by Impallari.com",
+            "author": "Pablo Impallari, Pablo Cosgaya and Dave Crossland",
+            "tags": [
+                "testing",
+                "@font-face",
+                "usability",
+                "tools"
+            ],
+            "description": "Extensive set of tools to test how font of your choice will behave in different situations"
         }
     ]
 }
