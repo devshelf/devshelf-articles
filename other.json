@@ -337,9 +337,10 @@
                 "testing",
                 "@font-face",
                 "usability",
-                "tools"
+                "tools",
+                "typography"
             ],
             "description": "Extensive set of tools to test how font of your choice will behave in different situations"
-        }
+         }
     ]
 }
