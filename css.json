@@ -988,6 +988,19 @@
                 "filter"
             ],
             "description": "This website is designed to help you build modern sites that are able to make use of some of the newer, exciting parts of CSS."
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/",
+            "title": "How To Set Up A Print Style Sheet",
+            "author": "Christian Krammer",
+            "tags": [
+                "css",
+                "print",
+                "media queries",
+                "tutorial",
+                "techniques"
+            ],
+            "description": "Print style sheets are useful and sometimes even necessary. Some readers might want to store your information locally as a well-formatted PDF to refer to the information later on, when they don’t have an Internet connection. However, print styles are often forgotten in the age of responsive Web design."
         }
     ]
 }
