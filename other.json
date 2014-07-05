@@ -230,11 +230,11 @@
         {
             "url": "http://updates.html5rocks.com/tag/performance",
             "title": "Perfomance",
-            "author": "Paul Lewis",
+            "author": "html5rocks.com",
             "tags": [
                 "performance"
             ],
-            "description": "All about performance"
+            "description": "Articles from html5rocks.com about web performance."
         },
         {
             "url": "http://www.rookiecode.com/2011/02/back-to-the-basic-what-is-programming/",
