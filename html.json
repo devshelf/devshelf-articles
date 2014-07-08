@@ -384,6 +384,17 @@
                 "tutorial",
                 "html5"
             ]
+        },
+        {
+            "url": "http://blog.templatemonster.com/2014/07/07/webpage-scrolling-animation-effects-css3-jquery/",
+            "title": "Webpage Scrolling Animation Effects with CSS3 & jQuery",
+            "author": " Jake Rocheleau",
+            "author-link": "http://byjakewithlove.com/",
+            "tags": [
+                "css",
+                "techniques",
+                "tutorial"
+            ]
         }
     ]
 }
