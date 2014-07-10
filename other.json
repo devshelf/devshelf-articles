@@ -341,6 +341,20 @@
                 "typography"
             ],
             "description": "Extensive set of tools to test how font of your choice will behave in different situations"
-         }
+        },
+        {
+            "url": "http://frontendbabel.info/articles/acquaintance-with-svg/",
+            "title": "Acquaintance with SVG images",
+            "author": "Yulya Buhvalova",
+            "author-link": "https://github.com/yoksel",
+            "tags": [
+                "graphics",
+                "images",
+                "svg",
+                "css",
+                "vector graphics"
+            ],
+            "description": "Introduction into Scalable Vector Graphics for an easy start"
+        }
     ]
 }
