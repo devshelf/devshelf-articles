@@ -235,6 +235,19 @@
                 "performance"
             ],
             "description": "All about performance"
+        },
+        {
+            "url": "http://frontendbabel.info/articles/acquaintance-with-svg/",
+            "title": "Acquaintance with SVG images",
+            "author": "Yulya Buhvalova",
+            "tags": [
+                "graphics",
+                "images",
+                "svg",
+                "css",
+                "vector graphics"
+            ],
+            "description": "Introduction into Scalable Vector Graphics for an easy start"
         }
     ]
 }
