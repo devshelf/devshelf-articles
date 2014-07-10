@@ -1001,6 +1001,14 @@
                 "techniques"
             ],
             "description": "Print style sheets are useful and sometimes even necessary. Some readers might want to store your information locally as a well-formatted PDF to refer to the information later on, when they don’t have an Internet connection. However, print styles are often forgotten in the age of responsive Web design."
+        },
+        {
+            "url": "http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+            "title": "A Complete Guide to Flexbox",
+            "tags": [
+                "flexbox",
+                "css"
+            ]
         }
     ]
 }
