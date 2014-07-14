@@ -1127,6 +1127,13 @@
                 "gestures",
                 "UI"
             ]
+        },
+        {
+            "url": "https://developer.chrome.com/devtools/docs/javascript-debugging",
+            "title": "Debugging: Chrome Developers Tools",
+            "tags": [
+                "tutorial"
+            ]
         }
     ]
 }
