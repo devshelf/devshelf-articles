@@ -318,6 +318,15 @@
                 "design"
             ],
             "description": "Google Guidelines"
+        },
+        {
+            "url": "https://github.com/h5bp/mobile-boilerplate/wiki/Mobile-Emulators-%26-Simulators",
+            "title": "Mobile Emulators & Simulators",
+            "tags": [
+                "mobile",
+                "tools"
+            ],
+            "description": "Mobile development tools for the working class."
         }
     ]
 }
