@@ -320,6 +320,7 @@
             "description": "Google Guidelines"
         },
         {
+<<<<<<< HEAD
             "url": "http://photoshopetiquette.com/",
             "title": "Photoshop Etiquette",
             "author": "Dan Rose",
@@ -355,6 +356,15 @@
                 "vector graphics"
             ],
             "description": "Introduction into Scalable Vector Graphics for an easy start"
+=======
+            "url": "https://github.com/h5bp/mobile-boilerplate/wiki/Mobile-Emulators-%26-Simulators",
+            "title": "Mobile Emulators & Simulators",
+            "tags": [
+                "mobile",
+                "tools"
+            ],
+            "description": "Mobile development tools for the working class."
+>>>>>>> 7c015c7216309d52c118da95172bc7a03bddc99f
         }
     ]
 }
