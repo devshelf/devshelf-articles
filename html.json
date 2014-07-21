@@ -417,6 +417,18 @@
                 "html5 animation"
             ],
             "description": "Let us ask you a question. How do you make your websites dynamic, responding each visitor’s action, engaging, encouraging them for doing this or that? What tools do you use to animate your virtual objects? If you want to know more about best HTML5 animation tools, you will find really useful information on the matter in our today’s blog post."
+        },
+        {
+            "url": "http://blog.templatemonster.com/2014/07/21/how-to-code-fixed-auto-hiding-nav-bar-with-javascript/",
+            "title": "How to Code a Fixed Auto-Hiding Nav Bar with JavaScript",
+            "author": " Jake Rocheleau",
+            "author-link": "http://blog.templatemonster.com/author/jake-rocheleau/",
+            "tags": [
+                "html5",
+                "css3",
+                "navigation"
+            ],
+            "description": "Top navigation bars have always been popular in web design. Since these elements contain such vital information some designers like to keep them fixed on-screen while scrolling down the page. But unfortunately this can get in the way of content if the bar is too large. A popular online blogging platform Medium created an interesting method of hiding the bar when scrolling down and re-showing it when scrolling back up."
         }
     ]
 }
