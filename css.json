@@ -1009,6 +1009,18 @@
                 "flexbox",
                 "css"
             ]
+        },
+        {
+            "url": "http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback",
+            "title": "Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback",
+            "author": "OSVALDAS VALUTIS",
+            "author-link": "http://twitter.com/osvaldas",
+            "tags": [
+                "css",
+                "flexbox",
+                "javascript"
+            ],
+            "description": "Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback"
         }
     ]
 }
