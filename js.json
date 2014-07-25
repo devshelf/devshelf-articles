@@ -518,6 +518,31 @@
             ]
         },
         {
+            "url": "http://frontender.info/understanding-the-node-js-event-loop/",
+            "title": "Как работает event loop в Node.js",
+            "author": "mixu",
+            "tags": [
+                "nodejs"
+            ]
+        },
+        {
+            "url": "http://frontender.info/fullscreen/",
+            "title": "Использование полноэкранного режима на мобильных устройствах",
+            "author": "paulkinlan",
+            "tags": [
+                "gestures",
+                "mobile"
+            ]
+        },
+        {
+            "url": "http://frontender.info/an-introduction-to-dom-events/",
+            "title": "Введение в события DOM",
+            "author": "wilsonpage",
+            "tags": [
+                "DOM"
+            ]
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/06/30/designing-for-android/",
             "title": "Designing For Android",
             "author": "Dan McKenzie",
@@ -1153,6 +1178,13 @@
                 "ember"
             ],
             "description": "With the latest release of Ember Simple Auth, using the library with ember-cli has become much simpler. As ember-cli in general is still pretty new to many people though, this post describes how to setup a project using Ember Simple Auth with ember-cli."
+        },
+        {
+            "url": "https://developer.chrome.com/devtools/docs/javascript-debugging",
+            "title": "Debugging: Chrome Developers Tools",
+            "tags": [
+                "tutorial"
+            ]
         }
     ]
 }
