@@ -429,6 +429,18 @@
                 "navigation"
             ],
             "description": "Top navigation bars have always been popular in web design. Since these elements contain such vital information some designers like to keep them fixed on-screen while scrolling down the page. But unfortunately this can get in the way of content if the bar is too large. A popular online blogging platform Medium created an interesting method of hiding the bar when scrolling down and re-showing it when scrolling back up."
+        },
+        {
+            "url": "http://blog.templatemonster.com/2014/07/25/animated-download-button-effect-css3-transitions/",
+            "title": "Animated Download Button Effect with CSS3 Transitions",
+            "author": "Jake Rocheleau",
+            "author-link": "http://blog.templatemonster.com/author/jake-rocheleau/",
+            "tags": [
+                "css",
+                "html5",
+                "css3"
+            ],
+            "description": "Ah, the joy of downloading something from a website – does life get any more exciting? I can’t imagine how! And that means web designers should pay close attention to file download interfaces. So many files like images, videos, and plugins can be shared through direct HTTP download. Many freebie websites even release icon sets and PSD files meant to be shared around the world."
         }
     ]
 }
