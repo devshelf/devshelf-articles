@@ -518,31 +518,6 @@
             ]
         },
         {
-            "url": "http://frontender.info/understanding-the-node-js-event-loop/",
-            "title": "Как работает event loop в Node.js",
-            "author": "mixu",
-            "tags": [
-                "nodejs"
-            ]
-        },
-        {
-            "url": "http://frontender.info/fullscreen/",
-            "title": "Использование полноэкранного режима на мобильных устройствах",
-            "author": "paulkinlan",
-            "tags": [
-                "gestures",
-                "mobile"
-            ]
-        },
-        {
-            "url": "http://frontender.info/an-introduction-to-dom-events/",
-            "title": "Введение в события DOM",
-            "author": "wilsonpage",
-            "tags": [
-                "DOM"
-            ]
-        },
-        {
             "url": "http://coding.smashingmagazine.com/2011/06/30/designing-for-android/",
             "title": "Designing For Android",
             "author": "Dan McKenzie",
