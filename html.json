@@ -441,6 +441,19 @@
                 "css3"
             ],
             "description": "Ah, the joy of downloading something from a website – does life get any more exciting? I can’t imagine how! And that means web designers should pay close attention to file download interfaces. So many files like images, videos, and plugins can be shared through direct HTTP download. Many freebie websites even release icon sets and PSD files meant to be shared around the world."
+        },
+        {
+            "url": "http://blog.templatemonster.com/2014/08/04/build-jquery-animated-circle-statistics/",
+            "title": "How To Build jQuery Animated Circle Statistics",
+            "author": " Jake Rocheleau",
+            "author-link": "http://blog.templatemonster.com/author/jake-rocheleau/",
+            "tags": [
+                "javascript",
+                "html5",
+                "html5 animation",
+                "css3"
+            ],
+            "description": "Shapes are a fun way to add some distinction to the elements on your webpage. Circles are particularly lovely because they’re even, simple, and relate to that cool number pi(like the dessert). And seriously who doesn’t love pie? A chump, that’s who."
         }
     ]
 }
