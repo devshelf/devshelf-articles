@@ -1182,6 +1182,15 @@
                 "tutorials"
             ],
             "description": "Shapes are a fun way to add some distinction to the elements on your webpage. Circles are particularly lovely because they’re even, simple, and relate to that cool number pi(like the dessert). And seriously who doesn’t love pie? A chump, that’s who."
+        },
+        {
+            "url": "http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4",
+            "title": "Build a RESTful API Using Node and Express 4",
+            "tags": [
+                "api",
+                "nodejs"
+            ],
+            "description": "With the release of Express 4.0 just a few days ago, lots of our Node apps will have some changes in how they handle routing. With the changes in the Express Router, we have more flexibility in how we can define the routes for our applications."
         }
     ]
 }
