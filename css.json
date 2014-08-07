@@ -988,6 +988,17 @@
                 "filter"
             ],
             "description": "This website is designed to help you build modern sites that are able to make use of some of the newer, exciting parts of CSS."
+        },
+        {
+            "url": "http://blog.templatemonster.com/2014/04/11/coding-responsive-horizontal-posts-slider-using-css3-jquery/",
+            "title": "Coding a Responsive Horizontal Posts Slider using CSS3 and jQuery",
+            "author": " Jake Rocheleau",
+            "author-link": "http://blog.templatemonster.com/author/jake-rocheleau/",
+            "tags": [
+                "css",
+                "htm5"
+            ],
+            "description": "\r\n"
         }
     ]
 }
