@@ -206,6 +206,17 @@
                 "performance"
             ],
             "description": "В этой статье я расскажу о том, как избегать написания кода, который будет работатьзначительно хуже, чем вы думаете. В частности, покажу антипаттерны, которые не позволяют V8 (также относится к Node.js, Opera и Chromium) оптимизировать ваши функции."
+        },
+        {
+            "url": "http://frontender.info/introduction-to-browserify/",
+            "title": "Введение в browserify",
+            "author": "Seth Vincent",
+            "author-link": "http://sethvincent.com/",
+            "tags": [
+                "commonjs",
+                "browserify"
+            ],
+            "description": "Весь этот чудесный код для 'npm', менеджера пакетов node.js … вот бы можно было использовать этот код в браузере?"
         }
     ]
 }
