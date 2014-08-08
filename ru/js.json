@@ -196,6 +196,36 @@
                 "WebRTC"
             ],
             "description": "Через WebRTC можно получить список всех локальных (находящихся за NAT) интерфейсов в системе. Еще, оказывается, можно обнаружить соседние хосты в сети."
+        },
+        {
+            "url": "http://frontender.info/optimization-killers/",
+            "title": "Убийцы оптимизации",
+            "author": "Petka Antonov",
+            "author-link": "https://twitter.com/PetkaAntonov",
+            "tags": [
+                "performance"
+            ],
+            "description": "В этой статье я расскажу о том, как избегать написания кода, который будет работатьзначительно хуже, чем вы думаете. В частности, покажу антипаттерны, которые не позволяют V8 (также относится к Node.js, Opera и Chromium) оптимизировать ваши функции."
+        },
+        {
+            "url": "http://frontender.info/introduction-to-browserify/",
+            "title": "Введение в browserify",
+            "author": "Seth Vincent",
+            "author-link": "http://sethvincent.com/",
+            "tags": [
+                "commonjs",
+                "browserify"
+            ],
+            "description": "Весь этот чудесный код для 'npm', менеджера пакетов node.js … вот бы можно было использовать этот код в браузере?"
+        },
+        {
+            "url": "http://frontender.info/7-battle-tested-backbonejs-rules-for-amazing-web-apps/",
+            "title": "7 проверенных в бою правил для написания веб-приложений на Backbone.js",
+            "author": "Tal Bereznitskey",
+            "author-link": "http://berzniz.com/",
+            "tags": [
+                "backbone"
+            ]
         }
     ]
 }
