@@ -217,6 +217,15 @@
                 "browserify"
             ],
             "description": "Весь этот чудесный код для 'npm', менеджера пакетов node.js … вот бы можно было использовать этот код в браузере?"
+        },
+        {
+            "url": "http://frontender.info/7-battle-tested-backbonejs-rules-for-amazing-web-apps/",
+            "title": "7 проверенных в бою правил для написания веб-приложений на Backbone.js",
+            "author": "Tal Bereznitskey",
+            "author-link": "http://berzniz.com/",
+            "tags": [
+                "backbone"
+            ]
         }
     ]
 }
