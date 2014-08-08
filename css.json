@@ -1031,6 +1031,18 @@
                 "tutorials",
                 "slider"
             ]
+        },
+        {
+            "url": "http://dev.opera.com/articles/css-will-change-property/",
+            "title": "will-change",
+            "author": "Sara Soueidan",
+            "author-link": "http://dev.opera.com/authors/sara-soueidan/",
+            "tags": [
+                "will-change",
+                "performance",
+                "hardware acceleration"
+            ],
+            "description": "If you’ve ever noticed “that flicker” in WebKit-based browsers while performing certain CSS operations, especially CSS transforms and animations, then you’ve most likely come across the term “hardware acceleration” before."
         }
     ]
 }
