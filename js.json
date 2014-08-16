@@ -1204,6 +1204,19 @@
                 "tips"
             ],
             "description": "We present the tutorial with a bit of theory, about important topic: regular expressions in JavaScript. Basic description and examples."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/date-and-time-in-javascript.html",
+            "title": "Date and time in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "date",
+                "tutorials"
+            ],
+            "description": "Date and time in JavaScript - we present an article with many examples about the Date object, and handling date and time in JavaScript."
         }
     ]
 }
