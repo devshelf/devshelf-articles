@@ -1217,6 +1217,21 @@
                 "tutorials"
             ],
             "description": "Date and time in JavaScript - we present an article with many examples about the Date object, and handling date and time in JavaScript."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/mastering-bitwise-operators-in-javascript-like-a-boss.html",
+            "title": "Mastering bitwise operators in JavaScript. Like a boss!",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "bitwise",
+                "theory",
+                "tutorials",
+                "practice"
+            ],
+            "description": "Bitwise operators in JavaScript is the next interesting topic in this language."
         }
     ]
 }
