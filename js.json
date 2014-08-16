@@ -1191,6 +1191,19 @@
                 "nodejs"
             ],
             "description": "With the release of Express 4.0 just a few days ago, lots of our Node apps will have some changes in how they handle routing. With the changes in the Express Router, we have more flexibility in how we can define the routes for our applications."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/regular-expressions-in-javascript.html",
+            "title": "Regular expressions in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "regular expressions",
+                "tips"
+            ],
+            "description": "We present the tutorial with a bit of theory, about important topic: regular expressions in JavaScript. Basic description and examples."
         }
     ]
 }
