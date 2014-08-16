@@ -1307,6 +1307,18 @@
                 "javascript"
             ],
             "description": "Part 2. of the OOP in JavaScript. Today we will show some more advanced examples."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/json-format-and-javascript.html",
+            "title": "JSON format and JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "JSON",
+                "javascript"
+            ],
+            "description": "The JSON format is extremely useful and important in the case of programming, and not just in the JavaScript and AJAX. Today we will look at it closer."
         }
     ]
 }
