@@ -1259,6 +1259,18 @@
                 "html"
             ],
             "description": "Working with forms in JavaScript"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/cookies-in-javascript.html",
+            "title": "Cookies in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "cookies",
+                "javascript"
+            ],
+            "description": "The tutorial shows how to handle cookies in JavaScript. Information about using cookies in pure JS."
         }
     ]
 }
