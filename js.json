@@ -1334,6 +1334,20 @@
                 "tutorials"
             ],
             "description": "Adobe AIR tutorial - quick start with this great technology"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/we-explore-adobe-air-windows-menus-xhr.html",
+            "title": "We explore Adobe AIR. Windows, menus, XHR.",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "AIR",
+                "Desktop",
+                "tutorial"
+            ],
+            "description": "A step further in Adobe AIR technology. We discuss the handling of windows, menus, and Ajax!"
         }
     ]
 }
