@@ -1232,6 +1232,20 @@
                 "practice"
             ],
             "description": "Bitwise operators in JavaScript is the next interesting topic in this language."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/testing-code-and-handling-errors-in-javascript.html",
+            "title": "Testing code and handling errors in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "debug",
+                "testing",
+                "quality"
+            ],
+            "description": "Today we talk about testing the code. Handling errors in JavaScript"
         }
     ]
 }
