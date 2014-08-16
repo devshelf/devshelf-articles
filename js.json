@@ -1271,6 +1271,18 @@
                 "javascript"
             ],
             "description": "The tutorial shows how to handle cookies in JavaScript. Information about using cookies in pure JS."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/math-numbers-calculations-math-object-in-javascript.html",
+            "title": "Math and numbers in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "math"
+            ],
+            "description": "Programming in JavaScript and the very important topic: maths, numbers and Math object in JavaScript. Calculations, Number object and examples."
         }
     ]
 }
