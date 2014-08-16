@@ -1246,6 +1246,19 @@
                 "quality"
             ],
             "description": "Today we talk about testing the code. Handling errors in JavaScript"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/forms-in-javascript.html",
+            "title": "Forms in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "forms",
+                "html"
+            ],
+            "description": "Working with forms in JavaScript"
         }
     ]
 }
