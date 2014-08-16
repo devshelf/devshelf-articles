@@ -1295,6 +1295,18 @@
                 "OOP"
             ],
             "description": "Welcome to the first part of the articles about object-oriented programming (OOP) in JavaScript. It is actually necessary to explore of the language secrets."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/oop-in-javascript-2.html",
+            "title": "JavaScript OOP - part 2/2 - summary",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "OOP",
+                "javascript"
+            ],
+            "description": "Part 2. of the OOP in JavaScript. Today we will show some more advanced examples."
         }
     ]
 }
