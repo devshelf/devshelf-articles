@@ -1319,6 +1319,21 @@
                 "javascript"
             ],
             "description": "The JSON format is extremely useful and important in the case of programming, and not just in the JavaScript and AJAX. Today we will look at it closer."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/adobe-air-tutorial-an-introduction-and-first-application.html",
+            "title": "Introduction to Adobe AIR - programming desktop apps in JS, HTML, CSS!",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "AIR",
+                "CSS",
+                "Desktop",
+                "tutorials"
+            ],
+            "description": "Adobe AIR tutorial - quick start with this great technology"
         }
     ]
 }
