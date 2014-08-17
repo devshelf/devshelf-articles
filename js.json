@@ -1191,6 +1191,163 @@
                 "nodejs"
             ],
             "description": "With the release of Express 4.0 just a few days ago, lots of our Node apps will have some changes in how they handle routing. With the changes in the Express Router, we have more flexibility in how we can define the routes for our applications."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/regular-expressions-in-javascript.html",
+            "title": "Regular expressions in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "regular expressions",
+                "tips"
+            ],
+            "description": "We present the tutorial with a bit of theory, about important topic: regular expressions in JavaScript. Basic description and examples."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/date-and-time-in-javascript.html",
+            "title": "Date and time in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "date",
+                "tutorials"
+            ],
+            "description": "Date and time in JavaScript - we present an article with many examples about the Date object, and handling date and time in JavaScript."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/mastering-bitwise-operators-in-javascript-like-a-boss.html",
+            "title": "Mastering bitwise operators in JavaScript. Like a boss!",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "bitwise",
+                "theory",
+                "tutorials",
+                "practice"
+            ],
+            "description": "Bitwise operators in JavaScript is the next interesting topic in this language."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/testing-code-and-handling-errors-in-javascript.html",
+            "title": "Testing code and handling errors in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "debug",
+                "testing",
+                "quality"
+            ],
+            "description": "Today we talk about testing the code. Handling errors in JavaScript"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/forms-in-javascript.html",
+            "title": "Forms in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "forms",
+                "html"
+            ],
+            "description": "Working with forms in JavaScript"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/cookies-in-javascript.html",
+            "title": "Cookies in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "cookies",
+                "javascript"
+            ],
+            "description": "The tutorial shows how to handle cookies in JavaScript. Information about using cookies in pure JS."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/math-numbers-calculations-math-object-in-javascript.html",
+            "title": "Math and numbers in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "math"
+            ],
+            "description": "Programming in JavaScript and the very important topic: maths, numbers and Math object in JavaScript. Calculations, Number object and examples."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/object-oriented-programming-in-javascript-oop-1.html",
+            "title": "JavaScript OOP - part 1/2",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "OOP"
+            ],
+            "description": "Welcome to the first part of the articles about object-oriented programming (OOP) in JavaScript. It is actually necessary to explore of the language secrets."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/oop-in-javascript-2.html",
+            "title": "JavaScript OOP - part 2/2 - summary",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "OOP",
+                "javascript"
+            ],
+            "description": "Part 2. of the OOP in JavaScript. Today we will show some more advanced examples."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/json-format-and-javascript.html",
+            "title": "JSON format and JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "JSON",
+                "javascript"
+            ],
+            "description": "The JSON format is extremely useful and important in the case of programming, and not just in the JavaScript and AJAX. Today we will look at it closer."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/adobe-air-tutorial-an-introduction-and-first-application.html",
+            "title": "Introduction to Adobe AIR - programming desktop apps in JS, HTML, CSS!",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "AIR",
+                "CSS",
+                "Desktop",
+                "tutorials"
+            ],
+            "description": "Adobe AIR tutorial - quick start with this great technology"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/we-explore-adobe-air-windows-menus-xhr.html",
+            "title": "We explore Adobe AIR. Windows, menus, XHR.",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "AIR",
+                "Desktop",
+                "tutorial"
+            ],
+            "description": "A step further in Adobe AIR technology. We discuss the handling of windows, menus, and Ajax!"
         }
     ]
 }
