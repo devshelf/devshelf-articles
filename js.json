@@ -1348,6 +1348,20 @@
                 "tutorial"
             ],
             "description": "A step further in Adobe AIR technology. We discuss the handling of windows, menus, and Ajax!"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/adobe-air-tutorial-an-application-to-backup-files-on-the-server.html",
+            "title": "Adobe AIR tutorial: an application to backup files on the serve",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "Adobe AIR",
+                "javascript",
+                "html",
+                "tutorials"
+            ],
+            "description": "Some time ago I decided to write a simple application to backup files quickly, and place them on my server. I created with program using Adobe AIR (and PHP for a small backend)."
         }
     ]
 }
