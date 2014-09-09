@@ -409,6 +409,20 @@
                 "canvas"
             ],
             "description": "An introduction to HTML5 Canvas in the context of JavaScript."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/html5-short-course-part-1.html",
+            "title": "HTML5 short course – part 1",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "html5",
+                "course",
+                "fast learning"
+            ],
+            "description": "Welcome to HTML5 short course – in a nutshell. We tried to prepare a quick course about HTML5 (and the use of JavaScript in its context), containing key information in one place."
         }
     ]
 }
