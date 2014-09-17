@@ -964,6 +964,14 @@
                 "rookie"
             ],
             "description": "The Internet took off quicker than anyone would have predicted, growing like crazy. Now, for the past few years, mobile growth has exploded onto the scene. The growth of mobile Internet usage is also far out pacing that of general Internet usage growth."
+        },
+        {
+            "url": "https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/",
+            "title": "Single Div Drawings with CSS",
+            "author": "Lynn Fisher, Robert Nyman",
+            "tags": [
+                "css"
+            ]
         }
     ]
 }
