@@ -1375,6 +1375,19 @@
                 "tutorials"
             ],
             "description": "A quick jQuery tutorial, that shows how to create own ToolTips. In four easy steps."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/mouse-and-keyboard-in-javascript.html",
+            "title": "Mouse and keyboard in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "keyboard",
+                "mouse",
+                "javascript"
+            ],
+            "description": "In this article we try to comprehensively but succinctly talk about working with the mouse and keyboard in JavaScript. We will also see how popular frameworks can help us."
         }
     ]
 }
