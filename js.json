@@ -1069,6 +1069,18 @@
                 "basics"
             ],
             "description": "As we already know from the second chapter concerning the variable object, the data of an execution context (variables, function declarations, and formal parameters of functions) are stored as properties of the variables object.\r\n\r\nAlso, we know that the variable object is created and filled with initial values every time on entering the context, and that its updating occurs at code execution phase.\r\n\r\nThis chapter is devoted one more detail directly related with execution contexts; this time, we will mention a topic of a scope chain"
+        },
+        {
+            "url": "http://jibbering.com/faq/notes/closures/",
+            "title": "Javascript Closures",
+            "author": "Richard Cornford",
+            "author-mail": "- ",
+            "author-link": "-",
+            "tags": [
+                "javascript",
+                "closures"
+            ],
+            "description": "Closures are one of the most powerful features of ECMAScript (javascript) but they cannot be property exploited without understanding them. They are, however, relatively easy to create, even accidentally, and their creation has potentially harmful consequences, particularly in some relatively common web browser environments. To avoid accidentally encountering the drawbacks and to take advantage of the benefits they offer it is necessary to understand their mechanism. This depends heavily on the role of scope chains in identifier resolution and so on the resolution of property names on objects..."
         }
     ]
 }
