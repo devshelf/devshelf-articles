@@ -988,6 +988,17 @@
                 "filter"
             ],
             "description": "This website is designed to help you build modern sites that are able to make use of some of the newer, exciting parts of CSS."
+        },
+        {
+            "url": "http://css-tricks.com/centering-css-complete-guide/",
+            "title": "Centering in CSS: A Complete Guide",
+            "author": "Chris Coyier",
+            "author-mail": "chriscoyier@gmail.com",
+            "author-link": "https://github.com/chriscoyier",
+            "tags": [
+                "center"
+            ],
+            "description": "Centering things in CSS is the poster child of CSS complaining. Why does it have to be so hard? They jeer. I think the issue isn't that it's difficult to do, but in that there so many different ways of doing it, depending on the situation, it's hard to know which to reach for."
         }
     ]
 }
