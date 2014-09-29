@@ -1388,6 +1388,19 @@
                 "javascript"
             ],
             "description": "In this article we try to comprehensively but succinctly talk about working with the mouse and keyboard in JavaScript. We will also see how popular frameworks can help us."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/i18n-in-javascript.html",
+            "title": "I18n in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "i18n",
+                "jquery"
+            ],
+            "description": "I18n in JavaScript - how to implement support for multiple languages."
         }
     ]
 }
