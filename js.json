@@ -1065,7 +1065,6 @@
                 "closures"
             ],
             "description": "Closures are one of the most powerful features of ECMAScript (javascript) but they cannot be property exploited without understanding them. They are, however, relatively easy to create, even accidentally, and their creation has potentially harmful consequences, particularly in some relatively common web browser environments. To avoid accidentally encountering the drawbacks and to take advantage of the benefits they offer it is necessary to understand their mechanism. This depends heavily on the role of scope chains in identifier resolution and so on the resolution of property names on objects..."
-        }
         },
         {
             "url": "http://yeoman.io/blog/performance-optimization.html",
