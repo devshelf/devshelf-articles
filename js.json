@@ -1413,6 +1413,20 @@
                 "jquery"
             ],
             "description": "I18n in JavaScript - how to implement support for multiple languages."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html",
+            "title": "Algorithms and data structures in JavaScript",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "algorithms",
+                "data structures",
+                "fast learning"
+            ],
+            "description": "Examples, solutions, libraries - algorithms and data structures in JavaScript!"
         }
     ]
 }
