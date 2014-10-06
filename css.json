@@ -1043,6 +1043,19 @@
                 "hardware acceleration"
             ],
             "description": "If you’ve ever noticed “that flicker” in WebKit-based browsers while performing certain CSS operations, especially CSS transforms and animations, then you’ve most likely come across the term “hardware acceleration” before."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/on-the-borderline-css-and-javascript.html",
+            "title": "On the borderline – CSS and JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "description": "Working with JavaScript often is associated with CSS. And thanks to that, we can acquire practice in the use of CSS, even if we don’t deal directly with creating layouts. "
         }
     ]
 }
