@@ -1415,6 +1415,21 @@
                 "fast learning"
             ],
             "description": "Examples, solutions, libraries - algorithms and data structures in JavaScript!"
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/jquery-tips-and-tricks.html",
+            "title": "jQuery tips and tricks",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "jquery",
+                "html5",
+                "tips",
+                "tricks"
+            ],
+            "description": "In today’s article we’ll do a small review of interesting jQuery tips. The framework itself gives the programmer a gigantic possibilities, that still can be extended through tricks and best practices."
         }
     ]
 }
