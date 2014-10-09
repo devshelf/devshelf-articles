@@ -1137,6 +1137,17 @@
                 "web app"
             ],
             "description": "Web apps have been around for a while, but the ability to install them as if they were native apps is relatively new. This blog post takes a look at what’s currently possible."
+        },
+        {
+            "url": "https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html",
+            "title": "Six reasons to define constructors with only one argument",
+            "author": "Giulio Canti",
+            "author-mail": "giulio.canti@gmail.com",
+            "author-link": "https://github.com/gcanti",
+            "tags": [
+                "js"
+            ],
+            "description": "Objects vs. multiple arguments in function parameters — right choice."
         }
     ]
 }
