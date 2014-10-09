@@ -752,6 +752,17 @@
                 "forms"
             ],
             "description": "Styling form elements is a pain point when developing web applications.  Historically, web developers have had to accept the form controls the browser provided with little hope of customization.  However, web rendering engines are increasingly adding hooks through pseudo-elements to give authors some control over the display."
+        },
+        {
+            "url": "https://dev.opera.com/articles/css-will-change-property/",
+            "title": "Everything You Need to Know About the CSS will-change Property",
+            "author": "Sara Soueidan",
+            "author-mail": "contact@sarasoueidan.com",
+            "author-link": "https://github.com/SaraSoueidan",
+            "tags": [
+                "will-change"
+            ],
+            "description": "If you’ve ever noticed “that flicker” in WebKit-based browsers while performing certain CSS operations, especially CSS transforms and animations, then you’ve most likely come across the term “hardware acceleration” before."
         }
     ]
 }
