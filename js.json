@@ -1427,6 +1427,17 @@
                 "fast learning"
             ],
             "description": "Examples, solutions, libraries - algorithms and data structures in JavaScript!"
+        },
+        {
+            "url": "https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html",
+            "title": "Six reasons to define constructors with only one argument",
+            "author": "Giulio Canti",
+            "author-mail": "giulio.canti@gmail.com",
+            "author-link": "https://github.com/gcanti",
+            "tags": [
+                "js"
+            ],
+            "description": "Objects vs. multiple arguments in function parameters — right choice."
         }
     ]
 }

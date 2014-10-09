@@ -84,6 +84,17 @@
 				"z-index",
 				"stacking context"
             ]
+        },
+        {
+            "url": "http://css-live.ru/articles-css/spisok-psevdoelementov-dlya-stilizacii-elementov-upravleniya-formy.html",
+            "title": "Список псевдоэлементов для стилизации элементов управления формы",
+            "author": "TJ VanToll",
+            "author-mail": "tj.vantoll@gmail.com",
+            "author-link": "https://github.com/tjvantoll",
+            "tags": [
+                "forms"
+            ],
+            "description": "Стилизация элементов формы является больной темой при разработке веб-приложений. Исторически, веб-разработчикам приходилось принимать те элементы управления форм, которые предоставлял браузер, не надеясь на кастомизацию.Тем не менее, браузерные движки добавляют всё больше и больше разных зацепок через псевдоэлементы, дающие автору некоторый контроль над отображением."
         }
     ]
 }
