@@ -741,6 +741,17 @@
                 "center"
             ],
             "description": "Centering things in CSS is the poster child of CSS complaining. Why does it have to be so hard? They jeer. I think the issue isn't that it's difficult to do, but in that there so many different ways of doing it, depending on the situation, it's hard to know which to reach for."
+        },
+        {
+            "url": "http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/",
+            "title": "List of Pseudo-Elements to Style Form Controls",
+            "author": "TJ VanToll",
+            "author-mail": "tj.vantoll@gmail.com",
+            "author-link": "https://github.com/tjvantoll",
+            "tags": [
+                "forms"
+            ],
+            "description": "Styling form elements is a pain point when developing web applications.  Historically, web developers have had to accept the form controls the browser provided with little hope of customization.  However, web rendering engines are increasingly adding hooks through pseudo-elements to give authors some control over the display."
         }
     ]
 }
