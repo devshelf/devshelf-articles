@@ -1455,6 +1455,19 @@
             "description": "In today’s article we’ll do a small review of interesting jQuery tips. The framework itself gives the programmer a gigantic possibilities, that still can be extended through tricks and best practices."
         },
         {
+            "url": "http://javascript-html5-tutorial.com/learning-html5-canvas-with-javascript-step-by-step.html",
+            "title": "Learning HTML5 Canvas with JavaScript – step by step",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "html5",
+                "canvas",
+                "javascript"
+            ],
+            "description": "We explore the secrets and capabilities - learning HTML5 Canvas."
+        },
+        {
             "url": "https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html",
             "title": "Six reasons to define constructors with only one argument",
             "author": "Giulio Canti",
