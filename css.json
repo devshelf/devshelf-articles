@@ -1078,6 +1078,19 @@
                 "html"
             ],
             "description": "Working with JavaScript often is associated with CSS. And thanks to that, we can acquire practice in the use of CSS, even if we don’t deal directly with creating layouts. "
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/working-with-less-css.html",
+            "title": "Working with LESS CSS",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "css",
+                "less"
+            ],
+            "description": "A few words about the utility LESS CSS (CSS/LESS) - a dynamic style sheet language."
         }
     ]
 }
