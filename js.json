@@ -1443,6 +1443,19 @@
                 "javascript"
             ],
             "description": "We explore the secrets and capabilities - learning HTML5 Canvas."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/more-about-html5-canvas-animations-examples-tools.html",
+            "title": "More about HTML5 Canvas. Animations, examples, tools.",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "html5",
+                "canvas"
+            ],
+            "description": "It’s time for further exploration of HTML5 Canvas, by implementing the next examples. "
         }
     ]
 }
