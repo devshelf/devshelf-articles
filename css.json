@@ -1043,6 +1043,16 @@
                 "hardware acceleration"
             ],
             "description": "If you’ve ever noticed “that flicker” in WebKit-based browsers while performing certain CSS operations, especially CSS transforms and animations, then you’ve most likely come across the term “hardware acceleration” before."
+        },
+        {
+            "url": "http://jonibologna.com/flexbox-cheatsheet/",
+            "title": "Flexbox Cheatsheet Cheatsheet",
+            "author": "Joni Trythall",
+            "author-link": "http://jonibologna.com/about/",
+            "tags": [
+                "flexbox",
+                "cheatsheet"
+            ]
         }
     ]
 }
