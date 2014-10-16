@@ -1456,6 +1456,18 @@
                 "canvas"
             ],
             "description": "It’s time for further exploration of HTML5 Canvas, by implementing the next examples. "
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/javascript-facebook-api-programming-facebook-applications.html",
+            "title": "JavaScript Facebook API – programming Facebook applications",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "facebook",
+                "javascript"
+            ],
+            "description": "Some useful information about coding with JavaScript Facebook API."
         }
     ]
 }
