@@ -1069,6 +1069,21 @@
                 "less"
             ],
             "description": "A few words about the utility LESS CSS (CSS/LESS) - a dynamic style sheet language."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/on-the-border-css-media-queries.html",
+            "title": "On the border: CSS media queries",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "media queries",
+                "css",
+                "css3",
+                "javascript",
+                "html5"
+            ],
+            "description": "An article about CSS media queries, which are very significant, especially in the context of modern web applications."
         }
     ]
 }
