@@ -1468,6 +1468,19 @@
                 "javascript"
             ],
             "description": "Some useful information about coding with JavaScript Facebook API."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/the-zepto-js-library.html",
+            "title": "The Zepto.js library",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "zepto.js",
+                "frameworks"
+            ],
+            "description": "Recently we had to work on the project, which used the Zepto.js in frontend layer. This library intrigued me, so I decided to write a few words about it."
         }
     ]
 }
