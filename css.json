@@ -619,14 +619,6 @@
             ]
         },
         {
-            "url": "http://frontender.info/the-cat-and-the-hat-css-selectors/",
-            "title": "«Котик» и «Домик» — новые CSS-селекторы",
-            "author": "robdodson",
-            "tags": [
-                "selectors"
-            ]
-        },
-        {
             "url": "http://alistapart.com/article/web-animation-at-work/",
             "title": "Web Animation at Work",
             "description": "Just as hierarchy guides users through content, animation guides them through interactions by helping them understand relationships, structure, cause, and effect. Animation shouldn’t be a nice-to-have. It is critical to communication.",
