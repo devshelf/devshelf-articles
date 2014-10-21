@@ -1481,6 +1481,20 @@
                 "frameworks"
             ],
             "description": "Recently we had to work on the project, which used the Zepto.js in frontend layer. This library intrigued me, so I decided to write a few words about it."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/copy-to-clipboard-in-javascript-jquery-zclip.html",
+            "title": "Copy to clipboard in Javascript – jQuery zClip",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "tutorial",
+                "javascript",
+                "plugin",
+                "jquery"
+            ],
+            "description": "A short tutorial about how to copy to clipboard in JavaScript. We will use the zClip plugin."
         }
     ]
 }
