@@ -1083,6 +1083,16 @@
                 "less"
             ],
             "description": "A few words about the utility LESS CSS (CSS/LESS) - a dynamic style sheet language."
+        },
+        {
+            "url": "http://jonibologna.com/flexbox-cheatsheet/",
+            "title": "Flexbox Cheatsheet Cheatsheet",
+            "author": "Joni Trythall",
+            "author-link": "http://jonibologna.com/about/",
+            "tags": [
+                "flexbox",
+                "cheatsheet"
+            ]
         }
     ]
 }

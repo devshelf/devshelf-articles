@@ -1453,6 +1453,15 @@
                 "js"
             ],
             "description": "Objects vs. multiple arguments in function parameters — right choice."
+        },
+        {
+            "url": "https://github.com/Prinzhorn/skrollr",
+            "title": "Stand-alone parallax scrolling JavaScript library for mobile and desktop",
+            "author": "Alexander Prinzhorn",
+            "author-link": "http://twitter.com/Prinzhorn",
+            "tags": [
+                "parallax"
+            ]
         }
     ]
 }
