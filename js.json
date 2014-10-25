@@ -1380,7 +1380,6 @@
             "author-link": "http://javascript-html5-tutorial.com",
             "tags": [
                 "Adobe AIR",
-                "javascript",
                 "html",
                 "tutorials"
             ],
@@ -1407,8 +1406,7 @@
             "author-link": "http://javascript-html5-tutorial.com",
             "tags": [
                 "keyboard",
-                "mouse",
-                "javascript"
+                "mouse"
             ],
             "description": "In this article we try to comprehensively but succinctly talk about working with the mouse and keyboard in JavaScript. We will also see how popular frameworks can help us."
         },
@@ -1419,7 +1417,6 @@
             "author-mail": "office@directcode.eu",
             "author-link": "http://directcode.eu/",
             "tags": [
-                "javascript",
                 "i18n",
                 "jquery"
             ],
@@ -1446,9 +1443,7 @@
             "author-mail": "office@directcode.eu",
             "author-link": "http://javascript-html5-tutorial.com",
             "tags": [
-                "javascript",
                 "jquery",
-                "html5",
                 "tips",
                 "tricks"
             ],
@@ -1462,8 +1457,7 @@
             "author-link": "http://directcode.eu/",
             "tags": [
                 "html5",
-                "canvas",
-                "javascript"
+                "canvas"
             ],
             "description": "We explore the secrets and capabilities - learning HTML5 Canvas."
         },
@@ -1494,7 +1488,6 @@
             "author-mail": "office@directcode.eu",
             "author-link": "http://javascript-html5-tutorial.com",
             "tags": [
-                "javascript",
                 "html5",
                 "canvas"
             ],
@@ -1508,7 +1501,7 @@
             "author-link": "http://javascript-html5-tutorial.com",
             "tags": [
                 "facebook",
-                "javascript"
+                "api"
             ],
             "description": "Some useful information about coding with JavaScript Facebook API."
         },
@@ -1519,7 +1512,6 @@
             "author-mail": "office@directcode.eu",
             "author-link": "http://directcode.eu/",
             "tags": [
-                "javascript",
                 "zepto.js",
                 "frameworks"
             ],
@@ -1532,9 +1524,8 @@
             "author-mail": "office@directcode.eu",
             "author-link": "http://javascript-html5-tutorial.com",
             "tags": [
-                "tutorial",
-                "javascript",
-                "plugin",
+                "clipboard",
+                "zClip",
                 "jquery"
             ],
             "description": "A short tutorial about how to copy to clipboard in JavaScript. We will use the zClip plugin."
