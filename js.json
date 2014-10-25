@@ -619,6 +619,17 @@
             ]
         },
         {
+            "url": "http://www.idea-r.it/blog/110/en/lazy-loading-seo-problem",
+            "title": "Lazy loading and the SEO problem",
+            "author": "Igor De Ruitz",
+            "author-link": "https://plus.google.com/+IgorDeRuitz?rel=author",
+            "tags": [
+                "lazy load",
+                "seo"
+            ],
+            "description": "Lazy loading applied to a web page is an excellent technique when all contents aren't immediately visible and you want to speed up page rendering.\r\nThis technique sounds great, but has a big SEO problem: search engine crawlers does not execute scripts, they only analyze HTML markup, so all the code that renders images dynamically is totally ignored along with images and captions."
+        },
+        {
             "url": "http://www.sitepoint.com/fixture-adapters-ember-js-server/",
             "title": "Fixture Adapters – Ember.js With No Server",
             "author": "Lamin Sanneh",
