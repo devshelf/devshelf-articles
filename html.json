@@ -296,6 +296,18 @@
             ]
         },
         {
+            "url": "http://css-tricks.com/svg-filters-on-text/",
+            "title": "SVG Filters on Text",
+            "author": "Chris Scott",
+            "author-link": "http://chrisscott.org/",
+            "tags": [
+                "svg",
+                "svg filters",
+                "filters"
+            ],
+            "description": "There has been a general trend in Web development, for some years now, away from using images in designs. Only a few years ago software companies would favour using an image of a rounded corner as the best \"cross-browser\" solution"
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/11/12/pursuing-semantic-value/",
             "title": "Pursuing Semantic Value",
             "author": "Jeremy Keith",
