@@ -433,6 +433,15 @@
             ]
         },
         {
+            "url": "http://stylecampaign.com/blog/2014/02/svg-animation/",
+            "title": "SVG animation",
+            "tags": [
+                "svg",
+                "animation"
+            ],
+            "description": "Going from a static SVG to an animated SVG is a big jump, unless you want to float a balloon up the screen (even that takes a bijillion lines of code). There’s three ways to animate an SVG: CSS, native SVG animation and JavaScript. As email devs we can’t use  JavaScript, so we started with the more familiar CSS."
+        },
+        {
             "url": "http://javascript-html5-tutorial.com/html5-canvas-and-javascript-introduction.html",
             "title": "HTML5 Canvas and JavaScript. Introduction.",
             "author": "javascript-html5-tutorial.com",
