@@ -89,6 +89,20 @@
             ]
         },
         {
+            "url": "http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/",
+            "title": "Structuring, Grouping, and Referencing in SVG – The <g>, <use>, <defs> and <symbol> Elements",
+            "author": "Sara Soueidan",
+            "author-mail": "contact@sarasoueidan.com",
+            "tags": [
+                "svg",
+                "symbol",
+                "defs",
+                "use",
+                "g"
+            ],
+            "description": "SVG comes with its own ways for structuring a document by means of certain SVG elements that allow us to define, group, and reference objects within the document. These elements make reusing elements easy, while maintaining clean and readable code. In this article we'll go over these elements, highlighting the difference between them and the advantages of each one."
+        },
+        {
             "url": "http://www.iandevlin.com/blog/2012/08/html5/responsive-html5-video",
             "title": "Responsive HTML5 video",
             "author": "Ian Devlin",
