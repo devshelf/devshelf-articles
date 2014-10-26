@@ -43,6 +43,16 @@
             ]
         },
         {
+            "url": "http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/",
+            "title": "Injecting SVG With JavaScript",
+            "author": "Joe Howard",
+            "tags": [
+                "svg",
+                "js"
+            ],
+            "description": "“Injecting SVG” – it sounds kinda complicated I know, but trust me it’s not. It’s actually super-simple! Right now you’re probably thinking “Why would you use JavaScript to inject SVG markup? What is it? And how does it work?” Let me explain."
+        },
+        {
             "url": "http://www.jonathantneal.com/blog/understand-the-favicon/",
             "title": "Understand the Favicon",
             "author": "Jonathan Neal",
