@@ -395,6 +395,18 @@
             ]
         },
         {
+            "url": "http://css-tricks.com/using-svg/",
+            "title": "Using SVG",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net",
+            "tags": [
+                "svg",
+                "svg basics",
+                "basics"
+            ],
+            "description": "SVG is an image format for vector graphics. It literally means Scalable Vector Graphics. Basically, what you work with in Adobe Illustrator. You can use SVG on the web pretty easily, but there is plenty you should know."
+        },
+        {
             "url": "http://webtypography.net/",
             "title": "The Elements of Typographic StyleApplied to the Web",
             "author": "Richard Rutter",
