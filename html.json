@@ -332,6 +332,17 @@
             "description": "There has been a general trend in Web development, for some years now, away from using images in designs. Only a few years ago software companies would favour using an image of a rounded corner as the best \"cross-browser\" solution"
         },
         {
+            "url": "http://css-tricks.com/svg-artboard-sizing/",
+            "title": "SVG Artboard Sizing",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net",
+            "tags": [
+                "svg",
+                "artboard"
+            ],
+            "description": "The term \"Artboard\" here is referring to that concept in Illustrator, basically the white drawing area you have for the document. Ultimately it refers to the viewBox in the actual SVG output. It matters very much for front end developers, because if there is no consistency, the positioning of the SVGs will always be a little one-off battle and really hurt the idea of SVG being a useful system."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/11/12/pursuing-semantic-value/",
             "title": "Pursuing Semantic Value",
             "author": "Jeremy Keith",
