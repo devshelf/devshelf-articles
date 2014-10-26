@@ -492,6 +492,17 @@
             ]
         },
         {
+            "url": "http://css-tricks.com/svg-text-typographic-designs/",
+            "title": "SVG `text` and Small, Scalable, Accessible Typographic Designs",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net",
+            "tags": [
+                "svg",
+                "svg text"
+            ],
+            "description": "Let's say you designed something with custom fonts that was a little bit fancy. Perhaps a certain word is positioned between the ascenders of another word below it. Some text is kerned out below to match the width of that same word."
+        },
+        {
             "url": "http://hop.ie/blog/particles/",
             "title": "Particles in Canvas",
             "author": "Donovan Hutchinson",
