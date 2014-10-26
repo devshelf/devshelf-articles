@@ -352,6 +352,18 @@
             ]
         },
         {
+            "url": "http://jonibologna.com/svg-viewbox-and-viewport/",
+            "title": "A Look At SVG viewBox and viewport",
+            "author": "Joni Trythall",
+            "author-link": "https://twitter.com/JoniTrythall",
+            "tags": [
+                "svg",
+                "viewbox",
+                "viewport"
+            ],
+            "description": "In using the <svg> element we are establishing a fragment consisting of nested details in our document. This fragment has its own viewport and coordinate system which can seem very complex and intimidating when first getting started."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/11/11/our-pointless-pursuit-of-semantic-value/",
             "title": "Our Pointless Pursuit Of Semantic Value",
             "author": "Divya Manian",
