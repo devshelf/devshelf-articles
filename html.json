@@ -135,6 +135,17 @@
             ]
         },
         {
+            "url": "http://demosthenes.info/blog/744/Make-SVG-Responsive",
+            "title": "Make SVG Responsive",
+            "author": "Dudley Storey",
+            "author-link": "http://demosthenes.info/about.php",
+            "tags": [
+                "svg",
+                "responsive"
+            ],
+            "description": "For an image format that features infinite scalability, SVG can be a surprisingly difficult format to make responsive: vector images do not adjust themselves to the size of the viewport by default."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/",
             "title": "Goodbye, Zen Coding. Hello, Emmet!",
             "author": "Zeno Rocha",
