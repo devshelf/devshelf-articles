@@ -321,6 +321,18 @@
             ]
         },
         {
+            "url": "http://www.sitepoint.com/getting-started-svg-gradients/",
+            "title": "Getting Started with SVG Gradients",
+            "author": "Joni Trythall",
+            "author-link": "http://www.sitepoint.com/author/jtrythall/",
+            "tags": [
+                "svg",
+                "gradients",
+                "rookie"
+            ],
+            "description": "While there are many arguments for and against using SVG gradients over CSS gradients, for this article we will focus on how to get started with SVG gradients if this happens to best suit your needs."
+        },
+        {
             "url": "http://inspirationalpixels.com/articles/modular-maintainable-reusable-htmlcss",
             "title": "Modular, Maintainable &amp; Reusable HTML/CSS",
             "author": "Seb Kay",
