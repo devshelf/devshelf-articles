@@ -364,6 +364,17 @@
             "description": "While there are many arguments for and against using SVG gradients over CSS gradients, for this article we will focus on how to get started with SVG gradients if this happens to best suit your needs."
         },
         {
+            "url": "http://www.sitepoint.com/tips-accessible-svg/",
+            "title": "Tips for Creating Accessible SVG",
+            "author": "Léonie Watson",
+            "author-link": "http://www.sitepoint.com/author/leoniewatson/",
+            "tags": [
+                "svg",
+                "accessibility"
+            ],
+            "description": "Scalable Vector Graphics (SVG) exists in a quantum state of accessibility. Which is to say that SVG is both accessible and inaccessible at the same time."
+        },
+        {
             "url": "http://inspirationalpixels.com/articles/modular-maintainable-reusable-htmlcss",
             "title": "Modular, Maintainable &amp; Reusable HTML/CSS",
             "author": "Seb Kay",
