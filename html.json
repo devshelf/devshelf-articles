@@ -324,6 +324,16 @@
             ]
         },
         {
+            "url": "http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/",
+            "title": "Resolution Independence With SVG",
+            "author": "David Bushell",
+            "author-link": "http://www.smashingmagazine.com/author/david-bushell/?rel=author",
+            "tags": [
+                "svg"
+            ],
+            "description": "In this article, we’ll look at Scalable Vector Graphics (SVG), one of the most underused technologies in website development today."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/",
             "title": "HTML5 And The Document Outlining Algorithm",
             "author": "Derek Johnson",
