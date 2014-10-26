@@ -247,6 +247,17 @@
             ]
         },
         {
+            "url": "http://designmodo.com/svg-patterns/",
+            "title": "How to Use SVG Patterns",
+            "author": "Joni Trythall",
+            "author-link": "http://www.sitepoint.com/author/jtrythall/",
+            "tags": [
+                "svg",
+                "svg patterns"
+            ],
+            "description": "SVG patterns are one of several paint options that we have for coloring the fills and strokes of shapes and text. While generally regarded as one of the more complex options, establishing a foundation and understanding the basic syntax can make more seemingly complex patterns much more obtainable."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/03/11/syncing-content-with-html5-video/",
             "title": "Syncing Content With HTML5 Video",
             "author": "Christian Heilmann",
