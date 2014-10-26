@@ -287,6 +287,19 @@
             ]
         },
         {
+            "url": "https://github.com/svg/svgo",
+            "title": "SVG Optimizer",
+            "author": "Kir Belevich",
+            "author-mail": "kir@soulshine.in",
+            "author-link": "https://github.com/deepsweet",
+            "tags": [
+                "svg",
+                "tools",
+                "performance"
+            ],
+            "description": " Code\r\n Issues 76\r\n Pull Requests 6\r\n Wiki\r\n Pulse\r\n Graphs\r\nHTTPS clone URL\r\n\t\r\nYou can clone with HTTPS, SSH, or Subversion. \r\n\r\n Clone in Desktop  Download ZIP\r\nSVGO is a Nodejs-based tool for optimizing SVG vector graphics files."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/07/05/how-to-modify-a-default-joomla-1-5-template/",
             "title": "How To Modify A Default Joomla 1.5 Template",
             "author": "Kristoffer Sandven",
