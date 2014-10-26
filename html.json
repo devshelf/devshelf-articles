@@ -61,6 +61,18 @@
             ]
         },
         {
+            "url": "http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/",
+            "title": "SVG Icons FTW",
+            "author": "Oleg Solomka",
+            "author-link": "http://legomushroom.com/",
+            "tags": [
+                "svg",
+                "icons",
+                "svg icons"
+            ],
+            "description": "Despite the growing popularity of SVG, its time around and excellent browser support, we have a lack of good vector icon approaches. It's time to fill this gap and use SVG as icons in our web projects."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2007/05/04/microformats-what-they-are-and-how-to-use-them/",
             "title": "Microformats: What They Are and How To Use Them",
             "author": "Vitaly Friedman",
