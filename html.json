@@ -272,6 +272,17 @@
             ]
         },
         {
+            "url": "http://www.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/",
+            "title": "Rethinking Responsive SVG",
+            "author": "Ilya Pukhalski",
+            "author-link": "http://www.smashingmagazine.com/author/ilya-pukhalski",
+            "tags": [
+                "responsive",
+                "svg"
+            ],
+            "description": "If you haven’t seen Joe Harrison1’s responsive icons2 technique yet, you’ll most probably be impressed as much as I was when I first discovered it. In this article, I’d like to explore what we can do with SVG beyond “traditional” scalable vector graphics that are used to replace bitmap PNGs. In fact, we can see SVG as an independent module that encapsulates CSS for the customization of views as well as the responsive behavior that also encapsulates JavaScript for the interaction logic."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/08/30/optimize-images-with-html5-canvas/",
             "title": "Optimize Images With HTML5 Canvas",
             "author": "Sergey Chikuyonok",
