@@ -201,6 +201,16 @@
             ]
         },
         {
+            "url": "http://css-tricks.com/look-svg-light-source-filters/",
+            "title": "A Look at SVG Light Source Filters",
+            "author": "Joni Trythall",
+            "tags": [
+                "svg",
+                "light source"
+            ],
+            "description": "SVG has its own set of filter effects that, when writing SVG, allow the author to combine several of these effects and apply the filter to the graphic."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2010/07/14/when-one-word-is-more-meaningful-than-a-thousand/",
             "title": "When One Word Is More Meaningful Than A Thousand",
             "author": "Niels Matthijs",
