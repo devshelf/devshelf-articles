@@ -89,6 +89,18 @@
             ]
         },
         {
+            "url": "https://github.com/willianjusten/awesome-svg",
+            "title": "Awesome SVG",
+            "author": "Willian Justen",
+            "author-mail": "willianjustenqui@gmail.com",
+            "author-link": "https://github.com/willianjusten",
+            "tags": [
+                "svg",
+                "collection"
+            ],
+            "description": "A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date."
+        },
+        {
             "url": "http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/",
             "title": "Structuring, Grouping, and Referencing in SVG – The <g>, <use>, <defs> and <symbol> Elements",
             "author": "Sara Soueidan",
