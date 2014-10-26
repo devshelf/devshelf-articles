@@ -342,7 +342,7 @@
             "tags": [
                 "media rules",
                 "best-practices",
-                "media-queries",
+                "media queries",
                 "responsive"
             ]
         },
@@ -462,7 +462,7 @@
             "title": "Media Queries, Sass 3.2, and CodeKit",
             "author": "Chris Coyier",
             "tags": [
-                "media-queries"
+                "media queries"
             ]
         },
         {
@@ -470,7 +470,7 @@
             "title": "The EMs have it: Proportional Media Queries FTW!",
             "author": "Lyza Gardner",
             "tags": [
-                "media-queries"
+                "media queries"
             ]
         },
         {

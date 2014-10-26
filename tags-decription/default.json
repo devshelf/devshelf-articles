@@ -1,4 +1,16 @@
 {
     "rookie": "Articles collection for staring web-developers.",
+    "svg": "Collection of best articles about SVG (Scalable Vector Graphics).",
+    "best practises": "Development best practises, recommendations and modern approaches.",
+    "css methodologies": "A list of CSS methodologies.",
+    "performance": "Collection of best articles about web performance.",
+    "mvc": "Best articles about MVC pattern.",
+    "nodejs": "List of best articles about Node.js.",
+    "grunt": "All you need to know about Grunt - The JavaScript Task Runner.",
+    "tools": "Collection of best tools for web development.",
+    "animation": "Most important articles about animation on the web.",
+    "flexbox": "Collection of best materials about flexbox.",
+    "gamedev": "Collection of best materials about game developmen on the web.",
+    "gulp": "All you need to know about Gulp - The streaming build system.",
     "living style guides": "Collection of useful resources about Living Style Guide creation and maintenance."
 }

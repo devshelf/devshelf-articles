@@ -360,18 +360,16 @@
         },
         {
             "url": "http://www.adamkaplan.me/grid/",
-            "title": "GRID",
+            "title": "GRID - A simple guide to responsive design.",
             "author": "Adam Kaplan",
             "author-link": "http://www.adamkaplan.me/",
             "tags": [
-                "guide to responsive design",
                 "fast learning",
                 "responsive",
                 "tutorial",
-                "media-queries",
+                "media queries",
                 "mobile"
-            ],
-            "description": "A simple guide to responsive design."
+            ]
         },
         {
             "url": "http://blog.templatemonster.com/2014/06/23/responsive-sliding-drawer-menu-lightbox-effect/",
