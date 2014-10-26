@@ -43,12 +43,34 @@
             ]
         },
         {
+            "url": "http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/",
+            "title": "Injecting SVG With JavaScript",
+            "author": "Joe Howard",
+            "tags": [
+                "svg",
+                "js"
+            ],
+            "description": "“Injecting SVG” – it sounds kinda complicated I know, but trust me it’s not. It’s actually super-simple! Right now you’re probably thinking “Why would you use JavaScript to inject SVG markup? What is it? And how does it work?” Let me explain."
+        },
+        {
             "url": "http://www.jonathantneal.com/blog/understand-the-favicon/",
             "title": "Understand the Favicon",
             "author": "Jonathan Neal",
             "tags": [
                 "favicon"
             ]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/",
+            "title": "SVG Icons FTW",
+            "author": "Oleg Solomka",
+            "author-link": "http://legomushroom.com/",
+            "tags": [
+                "svg",
+                "icons",
+                "svg icons"
+            ],
+            "description": "Despite the growing popularity of SVG, its time around and excellent browser support, we have a lack of good vector icon approaches. It's time to fill this gap and use SVG as icons in our web projects."
         },
         {
             "url": "http://coding.smashingmagazine.com/2007/05/04/microformats-what-they-are-and-how-to-use-them/",
@@ -65,6 +87,32 @@
             "tags": [
                 "microformats"
             ]
+        },
+        {
+            "url": "https://github.com/willianjusten/awesome-svg",
+            "title": "Awesome SVG",
+            "author": "Willian Justen",
+            "author-mail": "willianjustenqui@gmail.com",
+            "author-link": "https://github.com/willianjusten",
+            "tags": [
+                "svg",
+                "collection"
+            ],
+            "description": "A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date."
+        },
+        {
+            "url": "http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/",
+            "title": "Structuring, Grouping, and Referencing in SVG – The <g>, <use>, <defs> and <symbol> Elements",
+            "author": "Sara Soueidan",
+            "author-mail": "contact@sarasoueidan.com",
+            "tags": [
+                "svg",
+                "symbol",
+                "defs",
+                "use",
+                "g"
+            ],
+            "description": "SVG comes with its own ways for structuring a document by means of certain SVG elements that allow us to define, group, and reference objects within the document. These elements make reusing elements easy, while maintaining clean and readable code. In this article we'll go over these elements, highlighting the difference between them and the advantages of each one."
         },
         {
             "url": "http://www.iandevlin.com/blog/2012/08/html5/responsive-html5-video",
@@ -109,6 +157,18 @@
             ]
         },
         {
+            "url": "https://www.dashingd3js.com/svg-text-element",
+            "title": "SVG Text Element",
+            "author": "Dashingd3js",
+            "author-mail": "sebastian@dashingd3js.com",
+            "author-link": "https://www.dashingd3js.com/d3-data-visualization-freelancer-and-consultant",
+            "tags": [
+                "svg",
+                "svg text"
+            ],
+            "description": "In this section, we will cover the SVG Text Element, why it is important and how we use it within our D3.js Data Visualizations."
+        },
+        {
             "url": "http://philipwalton.com/articles/introducing-html-inspector/",
             "title": "HTML Inspector",
             "author": "Philip Walton",
@@ -133,6 +193,17 @@
                 "mobile",
                 "ipad"
             ]
+        },
+        {
+            "url": "http://demosthenes.info/blog/744/Make-SVG-Responsive",
+            "title": "Make SVG Responsive",
+            "author": "Dudley Storey",
+            "author-link": "http://demosthenes.info/about.php",
+            "tags": [
+                "svg",
+                "responsive"
+            ],
+            "description": "For an image format that features infinite scalability, SVG can be a surprisingly difficult format to make responsive: vector images do not adjust themselves to the size of the viewport by default."
         },
         {
             "url": "http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/",
@@ -163,6 +234,17 @@
             ]
         },
         {
+            "url": "http://davidwalsh.name/svg-animation",
+            "title": "The Simple Intro to SVG Animation",
+            "author": "David Walsh",
+            "author-link": "http://davidwalsh.name/about-david-walsh",
+            "tags": [
+                "svg",
+                "animation"
+            ],
+            "description": "This article serves as a first step toward mastering SVG element animation. Included within are links to key resources for diving deeper, so bookmark this page and refer back to it throughout your journey toward SVG mastery."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2010/11/10/learning-to-love-html5/",
             "title": "Learning to Love HTML5",
             "author": "Louis Lazaris",
@@ -177,6 +259,16 @@
             "tags": [
                 "HTML5"
             ]
+        },
+        {
+            "url": "http://css-tricks.com/look-svg-light-source-filters/",
+            "title": "A Look at SVG Light Source Filters",
+            "author": "Joni Trythall",
+            "tags": [
+                "svg",
+                "light source"
+            ],
+            "description": "SVG has its own set of filter effects that, when writing SVG, allow the author to combine several of these effects and apply the filter to the graphic."
         },
         {
             "url": "http://coding.smashingmagazine.com/2010/07/14/when-one-word-is-more-meaningful-than-a-thousand/",
@@ -215,6 +307,17 @@
             ]
         },
         {
+            "url": "http://designmodo.com/svg-patterns/",
+            "title": "How to Use SVG Patterns",
+            "author": "Joni Trythall",
+            "author-link": "http://www.sitepoint.com/author/jtrythall/",
+            "tags": [
+                "svg",
+                "svg patterns"
+            ],
+            "description": "SVG patterns are one of several paint options that we have for coloring the fills and strokes of shapes and text. While generally regarded as one of the more complex options, establishing a foundation and understanding the basic syntax can make more seemingly complex patterns much more obtainable."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/03/11/syncing-content-with-html5-video/",
             "title": "Syncing Content With HTML5 Video",
             "author": "Christian Heilmann",
@@ -243,6 +346,29 @@
             ]
         },
         {
+            "url": "http://css-tricks.com/svg-filters-on-text/",
+            "title": "SVG Filters on Text",
+            "author": "Chris Scott",
+            "author-link": "http://chrisscott.org/",
+            "tags": [
+                "svg",
+                "svg filters",
+                "filters"
+            ],
+            "description": "There has been a general trend in Web development, for some years now, away from using images in designs. Only a few years ago software companies would favour using an image of a rounded corner as the best \"cross-browser\" solution"
+        },
+        {
+            "url": "http://css-tricks.com/svg-artboard-sizing/",
+            "title": "SVG Artboard Sizing",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net",
+            "tags": [
+                "svg",
+                "artboard"
+            ],
+            "description": "The term \"Artboard\" here is referring to that concept in Illustrator, basically the white drawing area you have for the document. Ultimately it refers to the viewBox in the actual SVG output. It matters very much for front end developers, because if there is no consistency, the positioning of the SVGs will always be a little one-off battle and really hurt the idea of SVG being a useful system."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/11/12/pursuing-semantic-value/",
             "title": "Pursuing Semantic Value",
             "author": "Jeremy Keith",
@@ -250,6 +376,18 @@
                 "HTML5",
                 "Semantics"
             ]
+        },
+        {
+            "url": "http://jonibologna.com/svg-viewbox-and-viewport/",
+            "title": "A Look At SVG viewBox and viewport",
+            "author": "Joni Trythall",
+            "author-link": "https://twitter.com/JoniTrythall",
+            "tags": [
+                "svg",
+                "viewbox",
+                "viewport"
+            ],
+            "description": "In using the <svg> element we are establishing a fragment consisting of nested details in our document. This fragment has its own viewport and coordinate system which can seem very complex and intimidating when first getting started."
         },
         {
             "url": "http://coding.smashingmagazine.com/2011/11/11/our-pointless-pursuit-of-semantic-value/",
@@ -261,6 +399,17 @@
             ]
         },
         {
+            "url": "http://www.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/",
+            "title": "Rethinking Responsive SVG",
+            "author": "Ilya Pukhalski",
+            "author-link": "http://www.smashingmagazine.com/author/ilya-pukhalski",
+            "tags": [
+                "responsive",
+                "svg"
+            ],
+            "description": "If you haven’t seen Joe Harrison1’s responsive icons2 technique yet, you’ll most probably be impressed as much as I was when I first discovered it. In this article, I’d like to explore what we can do with SVG beyond “traditional” scalable vector graphics that are used to replace bitmap PNGs. In fact, we can see SVG as an independent module that encapsulates CSS for the customization of views as well as the responsive behavior that also encapsulates JavaScript for the interaction logic."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/08/30/optimize-images-with-html5-canvas/",
             "title": "Optimize Images With HTML5 Canvas",
             "author": "Sergey Chikuyonok",
@@ -270,12 +419,45 @@
             ]
         },
         {
+            "url": "http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/",
+            "title": "Resolution Independence With SVG",
+            "author": "David Bushell",
+            "author-link": "http://www.smashingmagazine.com/author/david-bushell/?rel=author",
+            "tags": [
+                "svg"
+            ],
+            "description": "In this article, we’ll look at Scalable Vector Graphics (SVG), one of the most underused technologies in website development today."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/",
             "title": "HTML5 And The Document Outlining Algorithm",
             "author": "Derek Johnson",
             "tags": [
                 "semantics"
             ]
+        },
+        {
+            "url": "http://www.sitepoint.com/getting-started-svg-gradients/",
+            "title": "Getting Started with SVG Gradients",
+            "author": "Joni Trythall",
+            "author-link": "http://www.sitepoint.com/author/jtrythall/",
+            "tags": [
+                "svg",
+                "gradients",
+                "rookie"
+            ],
+            "description": "While there are many arguments for and against using SVG gradients over CSS gradients, for this article we will focus on how to get started with SVG gradients if this happens to best suit your needs."
+        },
+        {
+            "url": "http://www.sitepoint.com/tips-accessible-svg/",
+            "title": "Tips for Creating Accessible SVG",
+            "author": "Léonie Watson",
+            "author-link": "http://www.sitepoint.com/author/leoniewatson/",
+            "tags": [
+                "svg",
+                "accessibility"
+            ],
+            "description": "Scalable Vector Graphics (SVG) exists in a quantum state of accessibility. Which is to say that SVG is both accessible and inaccessible at the same time."
         },
         {
             "url": "http://inspirationalpixels.com/articles/modular-maintainable-reusable-htmlcss",
@@ -287,6 +469,19 @@
             ]
         },
         {
+            "url": "https://github.com/svg/svgo",
+            "title": "SVG Optimizer",
+            "author": "Kir Belevich",
+            "author-mail": "kir@soulshine.in",
+            "author-link": "https://github.com/deepsweet",
+            "tags": [
+                "svg",
+                "tools",
+                "performance"
+            ],
+            "description": " Code\r\n Issues 76\r\n Pull Requests 6\r\n Wiki\r\n Pulse\r\n Graphs\r\nHTTPS clone URL\r\n\t\r\nYou can clone with HTTPS, SSH, or Subversion. \r\n\r\n Clone in Desktop  Download ZIP\r\nSVGO is a Nodejs-based tool for optimizing SVG vector graphics files."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/07/05/how-to-modify-a-default-joomla-1-5-template/",
             "title": "How To Modify A Default Joomla 1.5 Template",
             "author": "Kristoffer Sandven",
@@ -294,6 +489,18 @@
                 "PHP ",
                 "css"
             ]
+        },
+        {
+            "url": "http://css-tricks.com/using-svg/",
+            "title": "Using SVG",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net",
+            "tags": [
+                "svg",
+                "svg basics",
+                "basics"
+            ],
+            "description": "SVG is an image format for vector graphics. It literally means Scalable Vector Graphics. Basically, what you work with in Adobe Illustrator. You can use SVG on the web pretty easily, but there is plenty you should know."
         },
         {
             "url": "http://webtypography.net/",
@@ -346,6 +553,17 @@
             ]
         },
         {
+            "url": "http://css-tricks.com/svg-text-typographic-designs/",
+            "title": "SVG `text` and Small, Scalable, Accessible Typographic Designs",
+            "author": "Chris Coyier",
+            "author-link": "http://chriscoyier.net",
+            "tags": [
+                "svg",
+                "svg text"
+            ],
+            "description": "Let's say you designed something with custom fonts that was a little bit fancy. Perhaps a certain word is positioned between the ascenders of another word below it. Some text is kerned out below to match the width of that same word."
+        },
+        {
             "url": "http://hop.ie/blog/particles/",
             "title": "Particles in Canvas",
             "author": "Donovan Hutchinson",
@@ -394,6 +612,15 @@
                 "tutorial",
                 "scroll"
             ]
+        },
+        {
+            "url": "http://stylecampaign.com/blog/2014/02/svg-animation/",
+            "title": "SVG animation",
+            "tags": [
+                "svg",
+                "animation"
+            ],
+            "description": "Going from a static SVG to an animated SVG is a big jump, unless you want to float a balloon up the screen (even that takes a bijillion lines of code). There’s three ways to animate an SVG: CSS, native SVG animation and JavaScript. As email devs we can’t use  JavaScript, so we started with the more familiar CSS."
         },
         {
             "url": "http://javascript-html5-tutorial.com/html5-canvas-and-javascript-introduction.html",
