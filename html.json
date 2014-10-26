@@ -119,6 +119,18 @@
             ]
         },
         {
+            "url": "https://www.dashingd3js.com/svg-text-element",
+            "title": "SVG Text Element",
+            "author": "Dashingd3js",
+            "author-mail": "sebastian@dashingd3js.com",
+            "author-link": "https://www.dashingd3js.com/d3-data-visualization-freelancer-and-consultant",
+            "tags": [
+                "svg",
+                "svg text"
+            ],
+            "description": "In this section, we will cover the SVG Text Element, why it is important and how we use it within our D3.js Data Visualizations."
+        },
+        {
             "url": "http://philipwalton.com/articles/introducing-html-inspector/",
             "title": "HTML Inspector",
             "author": "Philip Walton",
