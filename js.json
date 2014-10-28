@@ -923,6 +923,18 @@
             "description": "“Essentials of interpretation” is a new series which consists of small lessons on interpretation of computer programs. The lessons are implemented in JavaScript and contain detailed comments. The sources can be found on the appropriate GitHub repository."
         },
         {
+            "url": "http://javascript-html5-tutorial.com/object-reflection-in-javascript.html",
+            "title": " Object reflection in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "oop",
+                "javascript"
+            ],
+            "description": "Reflection of objects is not just a curiosity, but also a tool, which we can meet more often than we think. And it may turn out to be this, what we need when we stuck with some issue. "
+        },
+        {
             "url": "http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-2-lexical-environments-ecmascript-implementation/",
             "title": "ECMA-262-5 in detail. Chapter 3.2. Lexical environments: ECMAScript implementation.",
             "author": "Dmitry Soshnikov",
