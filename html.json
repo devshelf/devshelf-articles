@@ -35,6 +35,17 @@
             ]
         },
         {
+            "url": "http://svgpocketguide.com/book/",
+            "title": "Pocket Guide to Writing SVG",
+            "author": "Joni Trythall",
+            "author-link": "http://jonibologna.com/",
+            "tags": [
+                "svg",
+                "complete guide"
+            ],
+            "description": "Mini-book about SVG essentials."
+        },
+        {
             "url": "http://diveintohtml5.info/forms.html",
             "title": "A FORM OF MADNESS",
             "tags": [
