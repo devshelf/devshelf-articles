@@ -628,6 +628,20 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/a-simple-halloween-game-in-javascript-rapid-development-with-jquery.html",
+            "title": "A simple Halloween game in JavaScript – rapid development with jQuery",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "jquery",
+                "gamedev",
+                "games"
+            ],
+            "description": "Halloween game in JavaScript, rapidly developed in using HTML5 and jQuery. Booo!"
+        },
+        {
             "url": "https://developer.chrome.com/devtools/docs/javascript-memory-profiling",
             "title": "JavaScript Memory Profiling",
             "author": "google",
