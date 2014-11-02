@@ -536,6 +536,19 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/upload-files-in-javascript.html",
+            "title": "Upload files in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "jquery",
+                "tutorial"
+            ],
+            "description": "Today’s point is about how to perform file upload in JavaScript. OK – with a small help of other technologies, however, it’s about a single, cohesive and working solution. "
+        },
+        {
             "url": "http://www.funnyant.com/choosing-javascript-mvc-framework/",
             "title": "Choosing a JavaScript MVC Framework",
             "author": "Craig McKeachie",
