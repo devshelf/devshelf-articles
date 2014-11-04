@@ -936,6 +936,20 @@
             "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
         },
         {
+            "url": "http://javascript-html5-tutorial.com/html5-custom-attributes-define-own-attributes.html",
+            "title": "HTML5 custom attributes – define own attributes!",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "html5",
+                "attributes",
+                "jquery"
+            ],
+            "description": "Do you want something great? No problem – in HTML5 we can find a lot of great things. You probably know that HTML5 introduces new elements, but it’s not everything! "
+        },
+        {
             "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-intro/",
             "title": "Essentials of interpretation. Intro.",
             "author": "Dmitry Soshnikov",
