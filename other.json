@@ -377,5 +377,15 @@
             ],
             "description": "Let us ask you a question. How do you make your websites dynamic, responding each visitor’s action, engaging, encouraging them for doing this or that? What tools do you use to animate your virtual objects? If you want to know more about best HTML5 animation tools, you will find really useful information on the matter in our today’s blog post."
         }
+        {
+            "url": "http://www.luster.io/blog/9-29-14-mobile-web-checklist.html",
+            "title": "Mobile Web App Checklist",
+            "author": "Zach Smith, Eugene Butler",
+            "tags": [
+                "mobile",
+                "web app",
+                "checklist"
+            ]
+        }
     ]
 }
