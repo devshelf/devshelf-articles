@@ -1,0 +1,10 @@
+{
+  "name": "DevShelfArticles",
+  "description": "Devshelf Articles Repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jsonlint": "^1.0.4",
+    "load-grunt-tasks": "~0.4.0"
+  }
+}
