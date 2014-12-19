@@ -866,6 +866,13 @@
             ]
         },
         {
+            "url": "http://habr.ru",
+            "title": "Test",
+            "tags": [
+                "documentation"
+            ]
+        },
+        {
             "url": "http://css-tricks.com/content-folding/",
             "title": "Content Folding",
             "author": "Chris Coyier",
