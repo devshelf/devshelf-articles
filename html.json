@@ -197,6 +197,17 @@
             ]
         },
         {
+            "url": "http://heydonworks.com/practical_aria_examples/",
+            "title": "ARIA examples",
+            "author": "@heydonworks",
+            "author-link": "http://twitter.com/heydonworks",
+            "tags": [
+                "aria",
+                "accessibility"
+            ],
+            "description": "Some practical ARIA examples to enhance your application accessibility (by @heydonworks)."
+        },
+        {
             "url": "http://www.mobilexweb.com/blog/ipad-mini-detection-for-html5-user-agent",
             "title": "Mission: Impossible – iPad mini detection for HTML5",
             "author": "Max Firtman",
