@@ -1113,6 +1113,17 @@
                 "single div",
                 "css drawing"
             ]
+        },
+        {
+            "url": "http://styleguide.sc5.io/",
+            "title": "SC5 Styleguide Generator",
+            "author": "SC5 Online",
+            "author-link": "http://sc5.io/",
+            "tags": [
+                "tool",
+                "css style-guide"
+            ],
+            "descriptiion": "Informative and easily navigable generic live style guide which can be edited directly in the browser"
         }
     ]
 }
