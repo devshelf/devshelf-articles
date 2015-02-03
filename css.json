@@ -1120,8 +1120,9 @@
             "author": "SC5 Online",
             "author-link": "http://sc5.io/",
             "tags": [
-                "tool",
-                "css style-guide"
+                "tools",
+                "living style guides",
+                "css style guides"
             ],
             "descriptiion": "Informative and easily navigable generic live style guide which can be edited directly in the browser"
         }
