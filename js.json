@@ -536,6 +536,19 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/upload-files-in-javascript.html",
+            "title": "Upload files in JavaScript",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "jquery",
+                "tutorial"
+            ],
+            "description": "Today’s point is about how to perform file upload in JavaScript. OK – with a small help of other technologies, however, it’s about a single, cohesive and working solution. "
+        },
+        {
             "url": "http://www.funnyant.com/choosing-javascript-mvc-framework/",
             "title": "Choosing a JavaScript MVC Framework",
             "author": "Craig McKeachie",
@@ -932,6 +945,20 @@
                 "basics"
             ],
             "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
+        },
+        {
+            "url": "http://javascript-html5-tutorial.com/html5-custom-attributes-define-own-attributes.html",
+            "title": "HTML5 custom attributes – define own attributes!",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "javascript",
+                "html5",
+                "attributes",
+                "jquery"
+            ],
+            "description": "Do you want something great? No problem – in HTML5 we can find a lot of great things. You probably know that HTML5 introduces new elements, but it’s not everything! "
         },
         {
             "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-intro/",
