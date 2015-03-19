@@ -934,6 +934,19 @@
             "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
         },
         {
+            "url": "http://www.html5rocks.com/en/tutorials/speed/layers/",
+            "title": "Accelerated Rendering in Chrome The Layer Model",
+            "author": " Tom Wiltzius",
+            "author-link": "http://www.html5rocks.com/en/profiles/#tomwiltzius",
+            "tags": [
+                "layers",
+                "chrome",
+                "js",
+                "rendering"
+            ],
+            "description": "For most web developers the fundamental model of a web page is the DOM. Rendering is the often obscure process of turning this representation of a page into a picture on the screen. Modern browsers have changed the way rendering works in recent years to take advantage of graphics cards: this is often vaguely referred to as “hardware acceleration”. When talking about a normal web page (i.e. not Canvas2D or WebGL), what does that term really mean? This article explains the basic model that underpins hardware accelerated rendering of web content in Chrome."
+        },
+        {
             "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-intro/",
             "title": "Essentials of interpretation. Intro.",
             "author": "Dmitry Soshnikov",
