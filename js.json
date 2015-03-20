@@ -509,6 +509,16 @@
             ]
         },
         {
+            "url": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+            "title": "How Browsers Work: Behind the scenes of modern web browsers",
+            "author": "ikeike443",
+            "author-link": "https://twitter.com/ikeike443",
+            "tags": [
+                "browser ",
+                "how it works"
+            ]
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/07/07/my-favorite-programming-mistakes/",
             "title": "My Favorite Programming Mistakes",
             "author": "Paul Tero",
@@ -747,6 +757,17 @@
             ]
         },
         {
+            "url": "http://varya.me/en/posts/jscs-in-use/",
+            "title": "JSCS in use",
+            "author": "Varya Stepanova",
+            "author-link": "http://varya.me/",
+            "tags": [
+                "codestyle",
+                "linting"
+            ],
+            "description": "experience of keeping a codestyle in one of my working projects. This is about a new tool called JSCS which we have recently chosen with the team and now are very pleased with the result."
+        },
+        {
             "url": "http://www.html5rocks.com/en/tutorials/speed/script-loading/",
             "title": "Deep dive into the murky waters of script loading",
             "author": "jakearchibald",
@@ -932,6 +953,19 @@
                 "basics"
             ],
             "description": "This article describes in some details our interpreter which we have created during the course Essentials of interpretation. We summarize intermediate results and the main parts of the evaluator making notes which were omitted in the code articles."
+        },
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/speed/layers/",
+            "title": "Accelerated Rendering in Chrome The Layer Model",
+            "author": " Tom Wiltzius",
+            "author-link": "http://www.html5rocks.com/en/profiles/#tomwiltzius",
+            "tags": [
+                "layers",
+                "chrome",
+                "js",
+                "rendering"
+            ],
+            "description": "For most web developers the fundamental model of a web page is the DOM. Rendering is the often obscure process of turning this representation of a page into a picture on the screen. Modern browsers have changed the way rendering works in recent years to take advantage of graphics cards: this is often vaguely referred to as “hardware acceleration”. When talking about a normal web page (i.e. not Canvas2D or WebGL), what does that term really mean? This article explains the basic model that underpins hardware accelerated rendering of web content in Chrome."
         },
         {
             "url": "http://dmitrysoshnikov.com/courses/essentials-of-interpretation-intro/",
