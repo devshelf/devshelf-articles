@@ -509,6 +509,16 @@
             ]
         },
         {
+            "url": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+            "title": "How Browsers Work: Behind the scenes of modern web browsers",
+            "author": "ikeike443",
+            "author-link": "https://twitter.com/ikeike443",
+            "tags": [
+                "browser ",
+                "how it works"
+            ]
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2011/07/07/my-favorite-programming-mistakes/",
             "title": "My Favorite Programming Mistakes",
             "author": "Paul Tero",
