@@ -717,6 +717,19 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/functional-programming-in-javascript-and-the-underscore-js-library.html",
+            "title": "Functional programming in JavaScript and the underscore.js library",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "functional",
+                "javascript",
+                "underscore"
+            ],
+            "description": "Functional programming is a programming methodology being a variation of declarative programming, in which functions belongs to the fundamental values, and the emphasis is on valuation of (often recursive) functions."
+        },
+        {
             "url": "https://medium.com/objects-in-space/9b8a9dd7bfe3",
             "title": "Introducing Event-Focused JS and CSS (EFJAC)",
             "author": false,
