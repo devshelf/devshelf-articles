@@ -1539,6 +1539,20 @@
             "description": "In today’s article we’ll do a small review of interesting jQuery tips. The framework itself gives the programmer a gigantic possibilities, that still can be extended through tricks and best practices."
         },
         {
+            "url": "http://javascript-html5-tutorial.com/backbone-js-tutorial-for-beginners-part-22.html",
+            "title": "Backbone.js tutorial for beginners – part 2/2",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "backbone.js",
+                "javascript",
+                "framework",
+                "tutorial"
+            ],
+            "description": "After talking about the basics and key aspects, such as models and collections, we will focus on next – Router, View and Events. "
+        },
+        {
             "url": "http://javascript-html5-tutorial.com/learning-html5-canvas-with-javascript-step-by-step.html",
             "title": "Learning HTML5 Canvas with JavaScript – step by step",
             "author": "javascript-html5-tutorial.com",
