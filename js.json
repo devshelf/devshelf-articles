@@ -310,6 +310,20 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/node-js-and-mysql-couple-words-about-mongodb.html",
+            "title": "Node.js and MySQL",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "MySQL",
+                "javascript",
+                "mongodb",
+                "nodejs"
+            ],
+            "description": "After introduction to node.js it’s time to go with more advanced and practical information. Today we play with communication between node.js and MySQL databases, and also we mention of MongoDB."
+        },
+        {
             "url": "http://github.com/polarmobile/coffeescript-style-guide",
             "title": "CoffeeScript Style Guide",
             "tags": [
