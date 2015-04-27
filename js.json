@@ -575,6 +575,19 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/node-js-introduction.html",
+            "title": "Node.js introduction",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "nodejs",
+                "javascript",
+                "basics"
+            ],
+            "description": "JavaScript’s popularity is obvious. And solutions such as node.js have a big influence on this. For a longer time, we can see and hear a lot about this technology."
+        },
+        {
             "url": "http://frontside.io/blog/2014/02/24/ember-and-the-future-of-the-web.html",
             "title": "Ember and the future of the web",
             "author": "Brandon Hays",
