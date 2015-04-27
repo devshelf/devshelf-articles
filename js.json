@@ -964,6 +964,20 @@
             "description": "“Essentials of interpretation” is a new series which consists of small lessons on interpretation of computer programs. The lessons are implemented in JavaScript and contain detailed comments. The sources can be found on the appropriate GitHub repository."
         },
         {
+            "url": "http://javascript-html5-tutorial.com/compress-javascript-and-css-files.html",
+            "title": "Compress JavaScript and CSS files",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "css",
+                "javascript",
+                "tools",
+                "howto"
+            ],
+            "description": "Minimizing / compression of JavaScript and CSS code is often encountered technique used to optimize the loading time by reducing weight of the file. Today we will try to briefly tell about the tools used for this purpose."
+        },
+        {
             "url": "http://javascript-html5-tutorial.com/object-reflection-in-javascript.html",
             "title": " Object reflection in JavaScript",
             "author": "javascript-html5-tutorial.com",
