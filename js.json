@@ -816,6 +816,21 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/backbone-js-tutorial-for-beginners-part-12.html",
+            "title": "Backbone.js tutorial for beginners – part 1/2",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.com",
+            "tags": [
+                "backbone.js",
+                "javascript",
+                "frameworks",
+                "mvc",
+                "tutorial"
+            ],
+            "description": "Backbone.js is popular JavaScript library, used heavy to create single-page web applications. Today we present good tutorial for beginners. Part 1/2."
+        },
+        {
             "url": "https://hacks.mozilla.org/2013/10/an-ar-game-technical-overview/",
             "title": "An AR Game: Technical Overview",
             "author": "abrie",
