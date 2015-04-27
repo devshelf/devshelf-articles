@@ -813,6 +813,18 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/qr-codes-in-javascript.html",
+            "title": "QR codes in JavaScript!",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "javascript",
+                "tools"
+            ],
+            "description": "This article is about how to work with QR codes in JavaScript. It’s quite simple with the right tools."
+        },
+        {
             "url": "http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever",
             "title": "Gulp, Grunt, Whatever",
             "author": false,
