@@ -1606,6 +1606,20 @@
             "description": "It’s time for further exploration of HTML5 Canvas, by implementing the next examples. "
         },
         {
+            "url": "http://javascript-html5-tutorial.com/node-js-and-socket-io-a-basic-tutorial.html",
+            "title": "Node.js and socket.io!",
+            "author": "javascript-html5-tutorial.com",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "nodejs",
+                "socket.io",
+                "javascript",
+                "tutorials"
+            ],
+            "description": "Basic, but detailed tutorial about great technologies: node.js and socket.io, working commonly, bringing us interesting possibilities. "
+        },
+        {
             "url": "http://javascript-html5-tutorial.com/javascript-facebook-api-programming-facebook-applications.html",
             "title": "JavaScript Facebook API – programming Facebook applications",
             "author": "javascript-html5-tutorial.com",
