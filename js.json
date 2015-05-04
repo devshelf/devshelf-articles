@@ -1589,6 +1589,27 @@
                 "jquery"
             ],
             "description": "A short tutorial about how to copy to clipboard in JavaScript. We will use the zClip plugin."
+        },
+        {
+            "url": "http://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/",
+            "title": "Things Every Javascript Developer Should Know",
+            "author": "Dwayne Charrington",
+            "author-mail": "dwayne@ilikekillnerds.com",
+            "author-link": "http://ilikekillnerds.com",
+            "tags": [
+                "protip",
+                "js"
+            ]
+        },
+        {
+            "url": "http://speckyboy.com/2014/12/08/jquery-plugins-2014/",
+            "title": "50 Most Useful jQuery Plugins from 2014",
+            "author": "Zaher Karp, Sufyan bin Uzayr, Oleg Mokhov",
+            "tags": [
+                "js",
+                "jquery",
+                "web design"
+            ]
         }
     ]
 }

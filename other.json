@@ -386,6 +386,15 @@
                 "web app",
                 "checklist"
             ]
+        },
+        {
+            "url": "http://uptodate.frontendrescue.org",
+            "title": "How to keep up to date on Front-End Technologies",
+            "author": "Guille Paz, Hernan Mammana, Lean Linares",
+            "tags": [
+                "recipes",
+                "howto"
+            ]
         }
     ]
 }
