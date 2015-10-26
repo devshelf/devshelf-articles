@@ -219,6 +219,18 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/css-tips-and-tricks.html",
+            "title": "CSS tips and examples",
+            "author": "DirectCode",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://directcode.eu/",
+            "tags": [
+                "css",
+                "tips"
+            ],
+            "description": "When we work with CSS, we often create or find interesting solutions for various tasks or problems encountered."
+        },
+        {
             "url": "http://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/",
             "title": "A Beginner’s Guide to Using Google Web Fonts",
             "author": "Joshua Johnson",
