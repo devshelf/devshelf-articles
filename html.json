@@ -180,6 +180,18 @@
             "description": "In this section, we will cover the SVG Text Element, why it is important and how we use it within our D3.js Data Visualizations."
         },
         {
+            "url": "http://customwebsitedevelopement.blogspot.com/2015/08/php-7-expected-features-advantages-release-date.html",
+            "title": "PHP 7 Expected Features and Release Date",
+            "author": "James William",
+            "author-mail": "jameswilliam723@outlook.com",
+            "tags": [
+                "php",
+                "php 7",
+                "php 7 features"
+            ],
+            "description": "Have you been waiting for the release of PHP 7 ? If so, your long wait for it is becoming a reality, anytime soon. As time passed, numerous features were added to this language, making the task of web development much interesting. Now that PHP 7 is on the horizon, it is certainly worth to discuss what new features can be expected, though this exercise is speculative in nature. "
+        },
+        {
             "url": "http://philipwalton.com/articles/introducing-html-inspector/",
             "title": "HTML Inspector",
             "author": "Philip Walton",
