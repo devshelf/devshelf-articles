@@ -535,6 +535,13 @@
             "description": "A practical guide to web typography"
         },
         {
+            "url": "http://saurzcode.in/2014/08/generate-restful-api-doc-with-swagger/",
+            "title": "swagger",
+            "tags": [
+                "css"
+            ]
+        },
+        {
             "url": "http://bigbitecreative.com/introduction-svg-animation/",
             "title": "An introduction to SVG animation",
             "author": "Jon McPartland",
