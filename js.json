@@ -368,6 +368,24 @@
             ]
         },
         {
+            "url": "http://javascript-html5-tutorial.com/using-mustache-js-by-jquery-and-express-application-example-part-12.html",
+            "title": "Mustache JS tutorial by jQuery and Express application example",
+            "author": "JS",
+            "author-mail": "office@directcode.eu",
+            "author-link": "http://javascript-html5-tutorial.net/",
+            "tags": [
+                "mustache",
+                "javascript",
+                "jquery",
+                "expressjs",
+                "nodejs",
+                "bootstraps",
+                "html5",
+                "tutorial"
+            ],
+            "description": "How the libraries such as Mustache JS can help us to create good front-end code faster. We will find it when creating this small web application."
+        },
+        {
             "url": "https://www.npmjs.org/doc/coding-style.html",
             "title": "npm-coding-style",
             "tags": [
