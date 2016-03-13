@@ -257,6 +257,20 @@
             "description": "This is a crash course on the code structure of a Webpage. ..."
         },
         {
+            "url": "https://github.com/vanila-io/mention-ghost-theme",
+            "title": "Mention - Free Ghost Theme",
+            "author": "Jelena",
+            "author-mail": "jelena.jjo@gmail.com",
+            "author-link": "http://jelenajovanovic.im/blog/",
+            "tags": [
+                "theme",
+                "html ",
+                "javascript",
+                "bootstraps"
+            ],
+            "description": "Mention is clean and minimalistic theme with few nice features, scroll indicator and reading time. We got inspired with https://mention.com/blog/ and the guys from Mention give as green light, to go and craft Ghost theme."
+        },
+        {
             "url": "http://www.rookiecode.com/2011/02/compiled-interpreted-or-both/",
             "title": "Types of Programming Languages : Compiled, Interpreted or both?",
             "author": "http://www.rookiecode.com",
