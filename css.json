@@ -563,6 +563,17 @@
             ]
         },
         {
+            "url": "https://github.com/philipwalton/flexbugs",
+            "title": "Flexbugs",
+            "author": "Philip Walton",
+            "author-mail": "mail@philipwalton.com",
+            "author-link": "http://philipwalton.com",
+            "tags": [
+                "flexbox"
+            ],
+            "description": "This repository is a community-curated list of flexbox issues and cross-browser workarounds for them. The goal is that if you're building a website using flexbox and something isn't working as you'd expect, you can find the solution here."
+        },
+        {
             "url": "http://www.sketchingwithcss.com/samplechapter/cheatsheet.html",
             "title": "The Ultimate Flexbox Cheat Sheet",
             "tags": [
