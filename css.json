@@ -11,6 +11,17 @@
             ]
         },
         {
+            "url": "https://csstriggers.com/",
+            "title": "CSS Triggers",
+            "author": "Paul Lewis",
+            "author-link": "https://aerotwist.com/",
+            "tags": [
+                "css",
+                "performance"
+            ],
+            "description": "Description css properties which triggers browser layout/paint/composite events"
+        },
+        {
             "url": "http://operatino.github.io/MCSS/en/",
             "title": "Multilayer CSS",
             "description": "Multilayer CSS organization methodology is based on BEM and OOCSS principles. It was invented in Odnoklassniki.ru (Top 10 world social network) developers team and is recommended for other developers as core for own documentation and team based methodologies.",
