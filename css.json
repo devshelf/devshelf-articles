@@ -11,6 +11,17 @@
             ]
         },
         {
+            "url": "https://csstriggers.com/",
+            "title": "CSS Triggers",
+            "author": "Paul Lewis",
+            "author-link": "https://aerotwist.com/",
+            "tags": [
+                "css",
+                "performance"
+            ],
+            "description": "Description css properties which triggers browser layout/paint/composite events"
+        },
+        {
             "url": "http://operatino.github.io/MCSS/en/",
             "title": "Multilayer CSS",
             "description": "Multilayer CSS organization methodology is based on BEM and OOCSS principles. It was invented in Odnoklassniki.ru (Top 10 world social network) developers team and is recommended for other developers as core for own documentation and team based methodologies.",
@@ -418,6 +429,18 @@
             ]
         },
         {
+            "url": "http://gridbyexample.com/",
+            "title": "Grid by Example",
+            "author": "Rachel Andrew",
+            "author-mail": "me@rachelandrew.co.uk",
+            "author-link": "https://rachelandrew.co.uk/",
+            "tags": [
+                "grid",
+                "layouts"
+            ],
+            "description": "Grid gives us some new terminology along with additional CSS Properties and values. In this section I’ll explain with some basic examples the terminology of Grid Layout."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without/",
             "title": "53 CSS-Techniques You Couldn’t Live Without",
             "author": "Vitaly Friedman",
@@ -540,6 +563,17 @@
             ]
         },
         {
+            "url": "https://github.com/philipwalton/flexbugs",
+            "title": "Flexbugs",
+            "author": "Philip Walton",
+            "author-mail": "mail@philipwalton.com",
+            "author-link": "http://philipwalton.com",
+            "tags": [
+                "flexbox"
+            ],
+            "description": "This repository is a community-curated list of flexbox issues and cross-browser workarounds for them. The goal is that if you're building a website using flexbox and something isn't working as you'd expect, you can find the solution here."
+        },
+        {
             "url": "http://www.sketchingwithcss.com/samplechapter/cheatsheet.html",
             "title": "The Ultimate Flexbox Cheat Sheet",
             "tags": [
@@ -557,6 +591,17 @@
                 "css best practises",
                 "best practises"
             ]
+        },
+        {
+            "url": "https://benfrain.com/css-performance-test-flexbox-v-css-table-fight/",
+            "title": "CSS performance test: Flexbox v CSS Table – Fight!",
+            "author": "Ben Frain",
+            "author-link": "https://benfrain.com/",
+            "tags": [
+                "flexbox",
+                "performance"
+            ],
+            "description": "Is the latest Flexbox implementation slower than CSS table layout? Yes, it is. But not enough to concern yourself about. If you need to use Flexbox, use it. For all but the most extreme situations, any speed difference against other layout methods is largely inconsequential."
         },
         {
             "url": "http://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/",
