@@ -582,6 +582,17 @@
             ]
         },
         {
+            "url": "https://benfrain.com/css-performance-test-flexbox-v-css-table-fight/",
+            "title": "CSS performance test: Flexbox v CSS Table – Fight!",
+            "author": "Ben Frain",
+            "author-link": "https://benfrain.com/",
+            "tags": [
+                "flexbox",
+                "performance"
+            ],
+            "description": "Is the latest Flexbox implementation slower than CSS table layout? Yes, it is. But not enough to concern yourself about. If you need to use Flexbox, use it. For all but the most extreme situations, any speed difference against other layout methods is largely inconsequential."
+        },
+        {
             "url": "http://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/",
             "title": "5 Steps to Drastically Improve Your CSS Knowledge in 24 Hours",
             "author": "Joshua Johnson",
