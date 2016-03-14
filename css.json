@@ -418,6 +418,18 @@
             ]
         },
         {
+            "url": "http://gridbyexample.com/",
+            "title": "Grid by Example",
+            "author": "Rachel Andrew",
+            "author-mail": "me@rachelandrew.co.uk",
+            "author-link": "https://rachelandrew.co.uk/",
+            "tags": [
+                "grid",
+                "layouts"
+            ],
+            "description": "Grid gives us some new terminology along with additional CSS Properties and values. In this section I’ll explain with some basic examples the terminology of Grid Layout."
+        },
+        {
             "url": "http://coding.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without/",
             "title": "53 CSS-Techniques You Couldn’t Live Without",
             "author": "Vitaly Friedman",
