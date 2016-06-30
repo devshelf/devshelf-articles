@@ -951,6 +951,13 @@
             ]
         },
         {
+            "url": "http://weibo.com/ajaxlogin.php?framelogin=1&callback=parent.sinaSSOController.feedBackUrlCallBack",
+            "title": "swagger",
+            "tags": [
+                "qwww"
+            ]
+        },
+        {
             "url": "http://css-tricks.com/interviewing-front-end-engineer-san-francisco/",
             "title": "Interviewing as a Front-End Engineer in San Francisco",
             "author": false,
